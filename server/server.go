@@ -11,16 +11,16 @@ import (
 Using "localhost" or "127.0.0.1" as the hostname
 
 Demo:
-curl -i -d '{"name":"Antoine"}' http://127.0.0.1:8080/users
-curl -i -d '{"id":"1"}' http://127.0.0.1:8080/users
-curl -i -d '{"id":"2","name":"Antoine2"}' http://127.0.0.1:8080/users
-curl -i -d '{"id":"1a2a3a4a5a"}' http://127.0.0.1:8080/users
-curl -i -d '{"id":"1a2a3a4a5a"}' http://127.0.0.1:8080/users
+curl -i -H "Content-Type:application/json" -d '{"name":"Antoine"}' http://127.0.0.1:8080/users
+curl -i -H "Content-Type:application/json" -d '{"id":"1"}' http://127.0.0.1:8080/users
+curl -i -H "Content-Type:application/json" -d '{"id":"2","name":"Antoine2"}' http://127.0.0.1:8080/users
+curl -i -H "Content-Type:application/json" -d '{"id":"1a2a3a4a5a"}' http://127.0.0.1:8080/users
+curl -i -H "Content-Type:application/json" -d '{"id":"1a2a3a4a5a"}' http://127.0.0.1:8080/users
 curl -i http://127.0.0.1:8080/users/12345
 curl -i http://127.0.0.1:8080/users/1a2a3a4a5a
 curl -i http://127.0.0.1:8080/users
-curl -i -X PUT -d '{"name":"After Modify"}' http://127.0.0.1:8080/users/0
-curl -i -X PUT -d '{"name":"After Modify"}' http://127.0.0.1:8080/users/1a2a3a4a5a
+curl -i -H "Content-Type:application/json" -X PATCH -d '{"name":"After Modify"}' http://127.0.0.1:8080/users/0
+curl -i -H "Content-Type:application/json" -X PATCH -d '{"name":"After Modify"}' http://127.0.0.1:8080/users/1a2a3a4a5a
 curl -i http://127.0.0.1:8080/users
 curl -i -X DELETE http://127.0.0.1:8080/users/0
 curl -i -X DELETE http://127.0.0.1:8080/users/1
@@ -31,8 +31,7 @@ curl -i http://122.62.240.22:8080/users
  */
 func main() {
 	api := rest.NewApi()
-	//DefaultDevStack -> Bad Content-Type or charset, expected 'application/json'
-	api.Use(rest.DefaultCommonStack...)
+	api.Use(rest.DefaultDevStack...)
 
 	users := controller.Clients{
 		Store: map[string]*controller.Client{},
