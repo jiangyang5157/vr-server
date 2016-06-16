@@ -36,7 +36,6 @@ func main() {
 
 func patch(w rest.ResponseWriter, r *rest.Request) {
 	w.WriteJson(map[string]string{
-		"sequence": strconv.Itoa(app.PATCH_SEQUENCE),
 		"path": "asd.zip",
 	})
 }
