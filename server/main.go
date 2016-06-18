@@ -9,9 +9,10 @@ import (
 )
 
 /*
-curl -i http://127.0.0.1:8080/api/patch
+curl -i http://127.0.0.1:8080/api/test
 curl -i http://127.0.0.1:8080/static/
 curl -i http://127.0.0.1:8080/static/kml/example.kml
+curl -i http://127.0.0.1:8080/static/asd.zip
 */
 
 func main() {
@@ -20,7 +21,7 @@ func main() {
 	api.Use(rest.DefaultDevStack...)
 
 	router, err := rest.MakeRouter(
-		rest.Get("/patch", patch),
+		rest.Get("/test", test),
 	)
 
 	if err != nil {
@@ -34,8 +35,8 @@ func main() {
 	log.Fatal(http.ListenAndServe(":" + strconv.Itoa(app.PORT), nil))
 }
 
-func patch(w rest.ResponseWriter, r *rest.Request) {
+func test(w rest.ResponseWriter, r *rest.Request) {
 	w.WriteJson(map[string]string{
-		"path": "asd.zip",
+		"key": "value",
 	})
 }
