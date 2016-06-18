@@ -11,8 +11,9 @@ import (
 /*
 curl -i http://127.0.0.1:8080/api/test
 curl -i http://127.0.0.1:8080/static/
-curl -i http://127.0.0.1:8080/static/kml/example.kml
+curl -i http://127.0.0.1:8080/static/asd.txt
 curl -i http://127.0.0.1:8080/static/asd.zip
+curl -i http://127.0.0.1:8080/static/kml/example.kml
 */
 
 func main() {
