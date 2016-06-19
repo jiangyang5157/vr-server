@@ -10,10 +10,8 @@ import (
 
 /*
 curl -i http://127.0.0.1:8080/api/test
-curl -i http://127.0.0.1:8080/static/
-curl -i http://127.0.0.1:8080/static/asd.txt
-curl -i http://127.0.0.1:8080/static/asd.zip
-curl -i http://127.0.0.1:8080/static/kml/example.kml
+curl -i http://127.0.0.1:8080/assets/
+curl -i http://127.0.0.1:8080/assets/static/kml/example.kml
 */
 
 func main() {
@@ -31,7 +29,7 @@ func main() {
 	api.SetApp(router)
 
 	http.Handle("/api/", http.StripPrefix("/api", api.MakeHandler()))
-	http.Handle("/static/", http.StripPrefix("/static", http.FileServer(http.Dir("./assets/static"))))
+	http.Handle("/assets/", http.StripPrefix("/assets", http.FileServer(http.Dir("./assets"))))
 
 	log.Fatal(http.ListenAndServe(":" + strconv.Itoa(app.PORT), nil))
 }
