@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+	<name>example.kml</name>
+	<Style id="placemark_1">
+		<IconStyle>
+			<color>7f0000ff</color>
+		</IconStyle>
+	</Style>
+	<Style id="placemark_2">
+		<IconStyle>
+			<color>ffff0055</color>
+		</IconStyle>
+	</Style>
     <Folder>
         <name>Poles Folder</name>
         <description>A container holds multiple objects - pole placemarks</description>
@@ -8,6 +19,7 @@
         <Placemark>
             <name>South Pole</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_1</styleUrl>
             <ExtendedData>
                 <Data name="title">
                    <value>cube 3d model</value>
@@ -23,6 +35,7 @@
         <Placemark>
             <name>North Pole</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_1</styleUrl>
             <ExtendedData>
                 <Data name="CampNumber">
                     <value>12</value>
@@ -44,6 +57,7 @@
         <Placemark>
             <name>0/0</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_1</styleUrl>
             <Point>
                 <coordinates>0,0</coordinates>
             </Point>
@@ -51,6 +65,7 @@
         <Placemark>
             <name>90/0</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_2</styleUrl>
             <ExtendedData>
                 <Data name="title">
                    <value>oo 3d model</value>
@@ -66,6 +81,7 @@
         <Placemark>
             <name>-90/0</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_2</styleUrl>
             <ExtendedData xmlns:camp="http://campsites.com">
                 <camp:number>12</camp:number>
                 <camp:parkingSpaces>4</camp:parkingSpaces>
@@ -77,6 +93,7 @@
         <Placemark>
             <name>-180/0</name>
             <description>descriptiondescription</description>
+			<styleUrl>#placemark_2</styleUrl>
             <Point>
                 <coordinates>-180,0</coordinates>
             </Point>
