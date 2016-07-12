@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="placemark_1">
+		<IconStyle>
+			<color>7f0000ff</color>
+		</IconStyle>
+	</Style>
+	<Style id="placemark_2">
+		<IconStyle>
+			<color>ffff0055</color>
+		</IconStyle>
+	</Style>
+	
+	<name>example2.kml</name>
+	
+    <Folder>
+        <name>Poles Folder</name>
+        <description>A container holds multiple objects - pole placemarks</description>
+
+        <Placemark>
+            <name>South Pole</name>
+            <description>descriptiondescription</description>
+			<styleUrl>#placemark_1</styleUrl>
+            <ExtendedData>
+                <Data name="title">
+                   <value>cube 3d model</value>
+                </Data>
+                <Data name="obj">
+                    <value>http://192.168.1.68:8080/assets/static/model/cube.obj</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>0,-90</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+
+    <Folder>
+        <name>Placemarks Folder</name>
+        <description>A container holds multiple objects - specific placemarks</description>
+
+        <Placemark>
+            <name>Auckland</name>
+            <Point>
+                <coordinates>174.76192,-36.84845</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Wellington</name>
+            <Point>
+                <coordinates>174.77623,-41.28646</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sydney</name>
+            <Point>
+                <coordinates>151.20699,-33.86748</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
