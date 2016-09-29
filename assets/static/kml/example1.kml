@@ -12,15 +12,21 @@
 		</IconStyle>
 	</Style>
 	
-	<name>example.kml</name>
+	<name>example1 container test</name>
+	<Placemark>
+		<name>example.ParentContainer</name>
+		<Point>
+			<coordinates>164.76192,-36.84845</coordinates>
+		</Point>
+	</Placemark>
 	
     <Folder>
-        <name>Poles Folder</name>
+        <name>example Poles</name>
         <description>A container holds multiple objects - pole placemarks</description>
 
         <Placemark>
             <name>South Pole</name>
-            <description>descriptiondescription</description>
+            <description>https://en.wikipedia.org/wiki/South_Pole</description>
 			<styleUrl>#placemark_1</styleUrl>
             <ExtendedData>
                 <Data name="title">
@@ -65,34 +71,6 @@
             </Point>
         </Placemark>
         <Placemark>
-            <name>90/0</name>
-            <description>descriptiondescription</description>
-			<styleUrl>#placemark_2</styleUrl>
-            <ExtendedData>
-                <Data name="title">
-                   <value>oo 3d model</value>
-                </Data>
-                <Data name="obj">
-                    <value>http://192.168.1.68:8080/assets/static/model/oo.obj</value>
-                </Data>
-            </ExtendedData>
-            <Point>
-                <coordinates>90,0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark>
-            <name>-90/0</name>
-            <description>descriptiondescription</description>
-			<styleUrl>#placemark_2</styleUrl>
-            <ExtendedData xmlns:camp="http://campsites.com">
-                <camp:number>12</camp:number>
-                <camp:parkingSpaces>4</camp:parkingSpaces>
-            </ExtendedData>
-            <Point>
-                <coordinates>-90,0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark>
             <name>-180/0</name>
             <description>descriptiondescription</description>
 			<styleUrl>#placemark_2</styleUrl>
@@ -103,7 +81,7 @@
     </Folder>
 
     <Folder>
-        <name>Placemarks Folder</name>
+        <name>example City</name>
         <description>A container holds multiple objects - specific placemarks</description>
 
         <Placemark>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+	<name>example2.NoContainer.NotShow</name>
+	<Point>
+		<coordinates>154.76192,-36.84845</coordinates>
+	</Point>
+</Placemark>
+	
 <Document>
 	<Style id="placemark_1">
 		<IconStyle>
@@ -12,52 +19,46 @@
 		</IconStyle>
 	</Style>
 	
-	<name>example2.kml</name>
+	<name>example2 container test</name>
 	
     <Folder>
-        <name>Poles Folder</name>
+        <name>example Poles</name>
         <description>A container holds multiple objects - pole placemarks</description>
 
-        <Placemark>
-            <name>South Pole</name>
+		<Placemark>
+            <name>90/0</name>
             <description>descriptiondescription</description>
-			<styleUrl>#placemark_1</styleUrl>
+			<styleUrl>#placemark_2</styleUrl>
             <ExtendedData>
                 <Data name="title">
-                   <value>cube 3d model</value>
+                   <value>oo 3d model</value>
                 </Data>
                 <Data name="obj">
-                    <value>http://192.168.1.68:8080/assets/static/model/cube.obj</value>
+                    <value>http://192.168.1.68:8080/assets/static/model/oo.obj</value>
                 </Data>
             </ExtendedData>
             <Point>
-                <coordinates>0,-90</coordinates>
+                <coordinates>90,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>-90/0</name>
+            <description>descriptiondescription</description>
+			<styleUrl>#placemark_2</styleUrl>
+            <ExtendedData xmlns:camp="http://campsites.com">
+                <camp:number>12</camp:number>
+                <camp:parkingSpaces>4</camp:parkingSpaces>
+            </ExtendedData>
+            <Point>
+                <coordinates>-90,0</coordinates>
             </Point>
         </Placemark>
     </Folder>
-
-    <Folder>
-        <name>Placemarks Folder</name>
-        <description>A container holds multiple objects - specific placemarks</description>
-
-        <Placemark>
-            <name>Auckland</name>
-            <Point>
-                <coordinates>174.76192,-36.84845</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark>
-            <name>Wellington</name>
-            <Point>
-                <coordinates>174.77623,-41.28646</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark>
-            <name>Sydney</name>
-            <Point>
-                <coordinates>151.20699,-33.86748</coordinates>
-            </Point>
-        </Placemark>
-    </Folder>
+	
+	<Folder>
+		<name>example2 empty container test</name>
+		<Folder>
+		</Folder>
+	</Folder>
 </Document>
 </kml>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Top 50 Places to See Celebrities in NYC</name>
+	<description>This map will guide you to the 50 most popular place where you are most likely to see a celebrity in New York City.  This map includes a variety of places, ranging from restaurants, shops, bars, spas, and much more.</description>
+	<Style id="icon-22-highlight">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-22-nodesc-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-22-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-22-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-22-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-22-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-22-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-22-nodesc-highlight">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Untitled layer</name>
+		<Placemark>
+			<name>Nobu</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/0qu2xsbOHRLwB6rSM845xh9R8X3Z8y213V9NHWWkWVNaJ6Aq_gXyL63IB-WJOcd5PGppHRtKeKl6JQImSAm5uoxpweNbOLQ5pQTg" height="200" width="auto" /><br><br>105 Hudson St.<br>New York, NY 10013<br> <br>This Japanese restaurant is perhaps one of the greatest, and it is a favorite among many celebrities, including, Madonna, Justin Timberlake, and Cameron Diaz.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/0qu2xsbOHRLwB6rSM845xh9R8X3Z8y213V9NHWWkWVNaJ6Aq_gXyL63IB-WJOcd5PGppHRtKeKl6JQImSAm5uoxpweNbOLQ5pQTg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00871600000001,40.719343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Butter</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/buVbp9vsVbfeDHdA-ixjfsE_g6f5zYr7ebObnt7CFLaGKpfjJ41ZrDUrazYv4izuDdee1lRhIn7wQQreuKL4dxHjr7hp2vwPGs7fHONRZMGDZt8WaV6fkw" height="200" width="auto" /><br><br>415 Lafayette St<br><br>New York, NY 10003<br>This trendy restaurant is visited my many celebrities, including Paris Hilton, Nicole Richie, and Lindsay Lohan]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/buVbp9vsVbfeDHdA-ixjfsE_g6f5zYr7ebObnt7CFLaGKpfjJ41ZrDUrazYv4izuDdee1lRhIn7wQQreuKL4dxHjr7hp2vwPGs7fHONRZMGDZt8WaV6fkw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.992452,40.728645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mandarin Oriental</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/hX64bv7NCGWpkPG-m5_0ge9jnoTkmqsJlKzo1mpRCx6dMoJYkI6D61--JWqlfxQ9L1mCTQ_dpN55W6De2Ukyh8E74H4XsSNZUdL7wHlOPUyOg8Hmaw" height="200" width="auto" /><br><br>80 Columbus Circle<br>New York, NY 10023<br>This hotel is one of the hottest places to stay in New York.  Some famous hotel guests include Helen Mirren, Liam Neeson, and Elle McPherson.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/hX64bv7NCGWpkPG-m5_0ge9jnoTkmqsJlKzo1mpRCx6dMoJYkI6D61--JWqlfxQ9L1mCTQ_dpN55W6De2Ukyh8E74H4XsSNZUdL7wHlOPUyOg8Hmaw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.982275,40.768263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Henri Bendel</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/9lAzc7HY6yLGaLUa6IbosZ0loBZ6zxn-Kxd_8WwzJ2arVzXNf9AMb0_Xj13w1T5MZpS3edG_L_dS36tzFwL-pOfMT7pPlfleH28y" height="200" width="auto" /><br><br>712 5th Ave<br>New York, NY 10019<br> <br>Celebrities such as Beyonce and Faith Hill have been spotted at this upscale women's specialty store.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/9lAzc7HY6yLGaLUa6IbosZ0loBZ6zxn-Kxd_8WwzJ2arVzXNf9AMb0_Xj13w1T5MZpS3edG_L_dS36tzFwL-pOfMT7pPlfleH28y</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.974653,40.762056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tribeca Grill</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8xVmQFFPCoy_strZXiAo4UH3VBdfppVYtilDMvbrOKC5b4s6TuHyToiWl925GpBNaOK6lWIBWxEVh7FgSkJdsRLiq9F-ayDtAA" height="200" width="auto" /><br><br>375 Greenwich St<br>New York, NY 10013<br><br>This restaurant is owned by Robert DeNiro, so him and his actor buddies, such as James Gandolfini, are frequent visitors]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/8xVmQFFPCoy_strZXiAo4UH3VBdfppVYtilDMvbrOKC5b4s6TuHyToiWl925GpBNaOK6lWIBWxEVh7FgSkJdsRLiq9F-ayDtAA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.01023000000001,40.719687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tracie Martyn Salon</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/CLWqr2_ZKih5Gktj4fdPrGQ-0_4TzhvolL_JhGPqMilqTvfQ3VZJncCjoWpnXyOcKIumRKgTYj6FnK99ogwlwEL599sf3WaJd8bGaQ" height="200" width="auto" /><br><br>59 5th Ave<br>New York, NY 10003<br> <br>Famous for its facials, this spa is a favorite of celebrities and socialites.  Some celebrities that the spa has catered to are Jennifer Aniston, Felicity Huffman, and Sandra Bullock]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/CLWqr2_ZKih5Gktj4fdPrGQ-0_4TzhvolL_JhGPqMilqTvfQ3VZJncCjoWpnXyOcKIumRKgTYj6FnK99ogwlwEL599sf3WaJd8bGaQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.994236,40.73511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40/40 Club</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/xrE2nr2uCHyAz1Tspf6brwxiQPz8cRA-IPhr4V4CRGdNwvzH_8FuVQOgCVcI5W17hC6vqLeVl8YOIHd3ORJiPO8" height="200" width="auto" /><br><br>6 W 25th St<br>New York, NY 10010<br>This club is owned by Jay-Z, so it has become frequently visited by him and his famous friends.  Beyonce has thrown parties at the club as well.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/xrE2nr2uCHyAz1Tspf6brwxiQPz8cRA-IPhr4V4CRGdNwvzH_8FuVQOgCVcI5W17hC6vqLeVl8YOIHd3ORJiPO8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.989299,40.743084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chelsea Hotel</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/4vSxidb6gSsejNgD24hCJXjupPbzOxuwyBg18yzIxDEJjL-VDS3dZSJE3v_6-EanZ1GXESZOrrNBbgg_4S-1BZQF8u-A8qz8uz77AC1PjfFyiyBVG4QDuAqjpAU4" height="200" width="auto" /><br><br>222 W 23rd St<br>New York, NY 10011<br> <br>This historic hotel was visited my many great celebrities of the past including Andy Warhol and Mark Twain.  Ethan Hawke is just one of the current celebrities who visits the hotel.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/4vSxidb6gSsejNgD24hCJXjupPbzOxuwyBg18yzIxDEJjL-VDS3dZSJE3v_6-EanZ1GXESZOrrNBbgg_4S-1BZQF8u-A8qz8uz77AC1PjfFyiyBVG4QDuAqjpAU4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.996315,40.74436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pastis</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EBl226xWJYhQo-ySE8JEiUGM73t3fB4-5oEvQeU6LEL2A4_JVi-yoHs6ZyqjtVt1AXg6fByspPPuHJJHqQc3bTKqjEUxmjPFX1jht1ZKsMpc7PyukkSDNGt2vkBM9FZWeUbO2E0PV7B-" height="200" width="auto" /><br><br>9 9th Ave<br>New York, NY 10014<br>This French bistro is a favorite of Julianne Moore, but many other celebrities such as Mischa Barton, Sienna Miller, and Nick Lachey have dined here as well.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/EBl226xWJYhQo-ySE8JEiUGM73t3fB4-5oEvQeU6LEL2A4_JVi-yoHs6ZyqjtVt1AXg6fByspPPuHJJHqQc3bTKqjEUxmjPFX1jht1ZKsMpc7PyukkSDNGt2vkBM9FZWeUbO2E0PV7B-</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.006325,40.73966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apple Store</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/vr-62bev6xblLgc2c3PVzNOT1WuBzPovkkBQm6NCt0xu6EI8zjflduVNR8D_3cZxHESIzjVr5YbTZ6VVLtvfQaiwapeCQFf-Ks39PH4" height="200" width="auto" /><br><br>103 Prince St<br>New York, NY 10012<br>Being that it was the only Apple store in the city for so long, the store attracted several celebrity customers such as Spike Lee, Natalie Portman, and Josh Hartnett.  The recently opened 5th Avenue location is such to attract a ton of celebrities as well.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/vr-62bev6xblLgc2c3PVzNOT1WuBzPovkkBQm6NCt0xu6EI8zjflduVNR8D_3cZxHESIzjVr5YbTZ6VVLtvfQaiwapeCQFf-Ks39PH4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.99909100000001,40.724904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cipriani Downtown</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/2hxJactruMwkv7n4j7HZlvH9lR3179JleGHXsdxbaZkeNdq_SQvDRpWwPjt5JRtvku4aRYnO7-YataT-hFhWD7RPz3swBtbs-cY-hn3xXpw" height="200" width="auto" /><br><br>376 W Broadway<br>New York, NY 10012<br> <br>One of the hippest downtown hot spots that is well known for its scene.  Celebrity guests of the restaurant include Victoria Beckham, Lindsay Lohan, and Tara Reid]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/2hxJactruMwkv7n4j7HZlvH9lR3179JleGHXsdxbaZkeNdq_SQvDRpWwPjt5JRtvku4aRYnO7-YataT-hFhWD7RPz3swBtbs-cY-hn3xXpw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.002798,40.723556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>John Frieda Salon</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/g4nXrKXJiUHVY7_rtLIJOfj2leGNq425GFstpvdN0vsrjdsx3R81FPDLTiznCNpEXKPfSfm3dfnvsNuhifJdhxJ-CLtWUK6UOQ" height="200" width="auto" /><br><br>825 Washington St<br>New York, NY 10014<br> <br>Many celebrities go to this famous salon for their hair needs.  Some celebrity clients include Uma Thurman, Renee Zellwegger, and Sarah Jessica Parker.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/g4nXrKXJiUHVY7_rtLIJOfj2leGNq425GFstpvdN0vsrjdsx3R81FPDLTiznCNpEXKPfSfm3dfnvsNuhifJdhxJ-CLtWUK6UOQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00798,40.739886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atrium</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/lzxcLsdNwH2Ba4fmrmNvm_RVznkEoF06iFtFkLaPtIepMCGx3Kky88XpaxMlAMMUAfH-r3I0OHzDf63T4vZGBDfm" height="200" width="auto" /><br><br>644 Broadway<br>New York, NY 10012<br>This boutique is full of the latest trends and has a large selection of jeans.  Celebrity shoppers include Ashanti, Sheryl Crowe, and designer Karl Lagerfeld.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/lzxcLsdNwH2Ba4fmrmNvm_RVznkEoF06iFtFkLaPtIepMCGx3Kky88XpaxMlAMMUAfH-r3I0OHzDf63T4vZGBDfm</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.995794,40.726541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Mercer Hotel</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/kSLUuXEhiyOnp8lDR7xBXOgO-HUkjN_aH6Mpvazfl9-wpbg6zJoC8mRDrSF9xuR25qQzS5273zjFrbG1l4TOtrk2EI3mjg" height="200" width="auto" /><br><br>147 Mercer St<br>New York, NY 10012<br> <br>This luxury hotel is very trendy and in a great location.  The hotel is also home to the hip restaurant, The Mercer Kitchen, where celebrities also dine.  Hotel guests and restaurant diners include Jude Law, Christina Aguilera, Nicole Richie, and Maroon 5's Adam Levine.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/kSLUuXEhiyOnp8lDR7xBXOgO-HUkjN_aH6Mpvazfl9-wpbg6zJoC8mRDrSF9xuR25qQzS5273zjFrbG1l4TOtrk2EI3mjg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.99840500000001,40.724862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balthazar</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Nk8xGizs7Q-QI_VV4k85YwKOKVKygQltHxP905kcO_2zGjuj4xsabzuVLFaNwlrEzSXXBCMD3E-kgKpJjSAvXnJbZ5WiGINBrfYVgUI3AdCg3a72cdMICpRNV3Dszkm8507ftsODmV2yt6Z8VptobETUHo0" height="200" width="auto" /><br><br>80 Spring St<br>New York, NY 10012<br> <br>This French bistro is pefect for spotting celebs, and it also has great food. Celebrities ranging from Jerry Seinfeld to Martha Stewar have eaten at this restaurant.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/Nk8xGizs7Q-QI_VV4k85YwKOKVKygQltHxP905kcO_2zGjuj4xsabzuVLFaNwlrEzSXXBCMD3E-kgKpJjSAvXnJbZ5WiGINBrfYVgUI3AdCg3a72cdMICpRNV3Dszkm8507ftsODmV2yt6Z8VptobETUHo0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.99806,40.722684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barney&apos;s</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/R3wEgqMsxb5dgG1QtgnWfDTOPj25Lj-_yGZNb-518s4ib8Oc9gz7AhVBdSXJXRT4e6pgzhSeqZCdBgSzTmT3kSrK8HlfNnYpsLVEvg" height="200" width="auto" /><br><br>660 Madison Ave<br>New York, NY 10021<br>Fashion fanatics flock to the modern and hip department store.  Celebritiy shoppers include Jessica Simpson, Minnie Drive, Mary-Kate and Ashley Olsen.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/R3wEgqMsxb5dgG1QtgnWfDTOPj25Lj-_yGZNb-518s4ib8Oc9gz7AhVBdSXJXRT4e6pgzhSeqZCdBgSzTmT3kSrK8HlfNnYpsLVEvg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.970766,40.764507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Gansevoort</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/LGUexkmdxfDNLGhhwa-zlv1CJlu8uBwE-pW5od6UhVHFW1j-WJL1cZ6RRy0Svwe_vojeGNZjmVDuwHmn6PaHmrYn609X6EDM61YB_fOWF8Y" height="200" width="auto" /><br><br>18 9th Ave<br>New York, NY 10014<br> <br>Known as New York's boutique hotel, it is like a playground for celebrities. Jay-Z, Hillary Duff, Brad Pitt and Angelina Jolie are just a few of the stars that have stayed at the hotel.  The hotel's bar, Plunge, is also a hotspot among celebrities ranging from Lindsay Lohan to P. Diddy.  Ono, the hotel's restaurant is also popular among celebrities such as Jessica Simpson, Leonard DiCaprio and Giselle Bundchen.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/LGUexkmdxfDNLGhhwa-zlv1CJlu8uBwE-pW5od6UhVHFW1j-WJL1cZ6RRy0Svwe_vojeGNZjmVDuwHmn6PaHmrYn609X6EDM61YB_fOWF8Y</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.005921,40.740156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Spotted Pig</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/7IoiXd0551f8uJLuG-A4kRNQeiBkm1Zw4SoiqpHLcc2k86rS5H-ZGdH8CEMRiAl5f7geDguW_EQAfjE8hMzmdgH8hVeT" height="200" width="auto" /><br><br>314 W 11th St<br>New York, NY 10014<br> <br> This restaurant has good food, but it's all about the scene.  Celebrity guests of the restaurant include David Duchovny, Julianne Moore, and Maggie Gyllenhaal.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/7IoiXd0551f8uJLuG-A4kRNQeiBkm1Zw4SoiqpHLcc2k86rS5H-ZGdH8CEMRiAl5f7geDguW_EQAfjE8hMzmdgH8hVeT</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00672600000002,40.735714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Intermix</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/EH__Uajg5Wqf52bILlcY_wDwLLLtV0rOKWnpw4gIVfmV72xLs3pe-2Rnp52AU197nGN7U5TopHx0SDz5GfPUoxZqnEnpCAHZ4tqm" height="200" width="auto" /><br><br>98 Prince St <br>New York, NY 10012<br>This hip store stocks the latest trends in fashion.  Celebrity shoppers include Hillary Duff, Kate Hudson, and Jamie-Lynn Sigler.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/EH__Uajg5Wqf52bILlcY_wDwLLLtV0rOKWnpw4gIVfmV72xLs3pe-2Rnp52AU197nGN7U5TopHx0SDz5GfPUoxZqnEnpCAHZ4tqm</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.998829,40.724736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>J. Sisters</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/jdYzbZn53o-z9R9dlyLDhxiV3x6X6vw3lWnFLIxoKX1BTs85b8I68NzxN6tP6j2-v5mF0o3MzxFl3QdAo5x3MEnj1mo" height="200" width="auto" /><br><br>35 W 57th St<br>New York, NY 10019<br> <br>This salon is famous for its pedicures and waxing.  Celebrity clients include Vanessa Williams, Gwenyth Paltrow, and Naomi Campbell.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/jdYzbZn53o-z9R9dlyLDhxiV3x6X6vw3lWnFLIxoKX1BTs85b8I68NzxN6tP6j2-v5mF0o3MzxFl3QdAo5x3MEnj1mo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.97507899999999,40.763462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soho Grand Hotel</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/PJ0Yi7VszzhwwayogxiveeuV4IJ7NCnO5yExT-HaxPCmp5MAxSuDo9PpAuB9XTug0GqLHGFNgsJsc_Tr16OulUBLX6AaDBfDfzIJ-CRHPPLKS8Vp" height="200" width="auto" /><br><br>310 W Broadway<br>New York, NY 10013<br> <br>In addition to being a magnet for celebrities, this trendy hotel is close to shops, galleries, and restaurants.  Celebrity hotel guests include Heidi Klum, Kirsten Dunst, and Ryan Phillepe.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/PJ0Yi7VszzhwwayogxiveeuV4IJ7NCnO5yExT-HaxPCmp5MAxSuDo9PpAuB9XTug0GqLHGFNgsJsc_Tr16OulUBLX6AaDBfDfzIJ-CRHPPLKS8Vp</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.004442,40.721625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Plumm</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/mecup_pxntwlCNG8GxYOU7fKeF94qx6BVqnj6W6JSbhsUsUGCl7at4NN_CCwLcIbQ2PrWFz78sGbREfX5V92GDtC1t1Wuge7gMMKL9FHeRE" height="200" width="auto" /><br><br>246 W 14th St<br>New York, NY 10011<br> <br>This bar has held many legendary venues, and is always packed with A-listers.  Some of them being Halle Berry, Carmen Electra, Russel SImmons, Adriana Lima, and Mary-Kate Olsen.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/mecup_pxntwlCNG8GxYOU7fKeF94qx6BVqnj6W6JSbhsUsUGCl7at4NN_CCwLcIbQ2PrWFz78sGbREfX5V92GDtC1t1Wuge7gMMKL9FHeRE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.001032,40.739098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mr. Chow</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/FHMJNHQMber9l4Q2T7UL1yuyLxKgNaT583mwgQJsNkEWY53ruZP1R8O7oFdTXdoBNz9Lcf1JKmEmg7kt6-JocMoff5LWdMNGel3CVbDd3NXcNqWvbXJ9NPcG69WxSnydtrsYWH9A9asou09l2UvZcUAkdADKkyGfmF534m-J9KNVFJpc7S1gu5k7M6EV1w3THiwBAWZ4mQ" height="200" width="auto" /><br><br>121 Hudson St<br>New York, NY 10013<br> <br>This restaurant was a celeb favorite in Los Angeles and the stars continue to flock to this New York location.  Celebrity guests of the restaurant include Star Jones, Uma Thurman, and George Clooney.  If you don't feel like going down to Tribeca to eat at Mr. Chow, there is also a location on 57th street.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/FHMJNHQMber9l4Q2T7UL1yuyLxKgNaT583mwgQJsNkEWY53ruZP1R8O7oFdTXdoBNz9Lcf1JKmEmg7kt6-JocMoff5LWdMNGel3CVbDd3NXcNqWvbXJ9NPcG69WxSnydtrsYWH9A9asou09l2UvZcUAkdADKkyGfmF534m-J9KNVFJpc7S1gu5k7M6EV1w3THiwBAWZ4mQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.008595,40.719999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Serendipity 3</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/onEG6mvd1s1FGF7OT-Y2GC34j4c_HEY0WwkOXYiZipZgRLN_Lz0Amr4F5yUtFC4GaHseQnWDY8dl58po-qT98-Bn-KY9DmAiaybC" height="200" width="auto" /><br><br>225 E 60th St<br>New York, NY 10022<br> Best known for its frozen hot chocolate, this boutique restaurant is a favorite of many celebrities.  Some of celebrity diners are Kelly Clarkson, Bill Clinton, Jay-Z, and Tom Cruise.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/onEG6mvd1s1FGF7OT-Y2GC34j4c_HEY0WwkOXYiZipZgRLN_Lz0Amr4F5yUtFC4GaHseQnWDY8dl58po-qT98-Bn-KY9DmAiaybC</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.965558,40.761958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bryant Park Hotel</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/horjsWY_9-mTG-oNgiqi7tgMg5pgI2esJLycOBCAVhljIwI6BJnDKjMjywqvY1WG6iEnAVGOqKqKexpIS6bGUkRM0l54jZxlDtEpDZE" height="200" width="auto" /><br><br>40 W 40th St<br>New York, NY 10018<br>This hotel takes the lead in luxury, and has had many celebrity guests over the years such as Leonardo DiCaprio, Jennifer Lopez, and Samuel L. Jackson.  The hotel is also home to hot spot restaurant Koi where celebrities like Mark Wahlberg and Giselle Bundchen dine.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/horjsWY_9-mTG-oNgiqi7tgMg5pgI2esJLycOBCAVhljIwI6BJnDKjMjywqvY1WG6iEnAVGOqKqKexpIS6bGUkRM0l54jZxlDtEpDZE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.983621,40.752928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tao</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/E9VxLgfu9mtu1V8He3Jn3evRSOLcD351_9uoZgaBo5N_3er_GEQVZP5bOCIYu_50LWWT1bzM_jatDdQlHBy0k5aWm0A" height="200" width="auto" /><br><br>42 E 58th St<br>New York, NY 10022<br> <br>Famous for its 16-foot buddah that stands tall in the middle of the restaurant, it is also full of several celebrities guests such as Nicole Kidman, Beyonce, Ricky Martin, and athletes from the Yankees and the Giants.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/E9VxLgfu9mtu1V8He3Jn3evRSOLcD351_9uoZgaBo5N_3er_GEQVZP5bOCIYu_50LWWT1bzM_jatDdQlHBy0k5aWm0A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.971637,40.762844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scoop NYC</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/vUoWB5Fwm61eDjczSP9FBhlapycHxQPDs8NKvnTqSrJ5WR4VEa8HF37fVzNZQaBQIRAt1vgHl9PLBqRcsYQ9_QSvpKNMmoXnmxgX_SDj4BzRuaQTGGSgpEUe" height="200" width="auto" /><br><br>473-475 Broadway<br>New York, NY 10013<br>This shop is full of the latest trends and fashions and is a favorite to many celebrities.  Some of its shoppers include Natalie Portman and Jessica Simpson.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/vUoWB5Fwm61eDjczSP9FBhlapycHxQPDs8NKvnTqSrJ5WR4VEa8HF37fVzNZQaBQIRAt1vgHl9PLBqRcsYQ9_QSvpKNMmoXnmxgX_SDj4BzRuaQTGGSgpEUe</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.000235,40.721305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sally Hershberger Downtown</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/dkwHgj1RTVuBmXvtrrSqkQC0CKOY_-xRmiEtE2VAJMTtDMN3Nkyr-UaDeVg85xTTzujPWqb51d0LOb2FlGSY8Xb2uCqmrZefeAWL8_uuYbNOGciItDbWIJY1JB49DE2W" height="200" width="auto" /><br><br>425 W 14th St<br>New York, NY 10014<br> <br>This salon is known for doing the hair of many celebrities, including Meg Ryan, Michelle Phiefer, and Naomi Watts.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/dkwHgj1RTVuBmXvtrrSqkQC0CKOY_-xRmiEtE2VAJMTtDMN3Nkyr-UaDeVg85xTTzujPWqb51d0LOb2FlGSY8Xb2uCqmrZefeAWL8_uuYbNOGciItDbWIJY1JB49DE2W</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.006443,40.741426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>60 Thompson</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/kDChvuxTevpcqjYCEMXWlC5fJKoay-iZwVSAGJR7eJa7gtODeModSbdg8TsogCtIRH-c9PyljYa4UXdFdHlc3TOZdYFgDDaQ7RZw5Mw8xSkARsle6BUD" height="200" width="auto" /><br><br>60 Thompson St<br>New York, NY 10012<br><br>This is one of Soho's finest luxury boutique hotel's and is frequently visited by many celebrities including Jessica Simpson and Christina Aguilera.  The hotel's restaurant Kittichai is also a celeb hotspot that has been visited by Calista Flockhart and Harrison Ford.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/kDChvuxTevpcqjYCEMXWlC5fJKoay-iZwVSAGJR7eJa7gtODeModSbdg8TsogCtIRH-c9PyljYa4UXdFdHlc3TOZdYFgDDaQ7RZw5Mw8xSkARsle6BUD</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.003292,40.724053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bungalow 8</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/UC6oS4lSw-qeyrI84UOfbVvkrHG_c3tYKquq25q7UROKVCrXiOiMUwHAr4wYvNZBrss6E7ZaXoZkGta4CkAlG4blfcttTUg" height="200" width="auto" /><br><br>515 W 27th St<br>New York, NY 10001<br> <br>This is one of the hottest and trendiest clubs and is always packed with A-listers.  Some frequent celebrity guests include Mary-Kate and Ashley Olsen, Lindsay Lohan, Luke Wilson, Colin Farrell, and Paris Hilton.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/UC6oS4lSw-qeyrI84UOfbVvkrHG_c3tYKquq25q7UROKVCrXiOiMUwHAr4wYvNZBrss6E7ZaXoZkGta4CkAlG4blfcttTUg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.002747,40.750404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waverly Inn and Garden</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/wkZ139hPQoRul1WecUoF82ewXYLCNrVf910g3WVR_WEhz1MDDgCOoME3WP5bmDEU1RNQCL6FFO6m50GtDVcEvBh98m49AsSCZS4z4qiTurjDuP2KwY2AVaLCs80rydloeG0-3V1DZp-DOlao_ifzsrvEUhsVbAunUmvyoAW_iQ50tyvZdKIsBpoegOmok1ZmyYGf5Rq4-Q" height="200" width="auto" /><br><br>Bank St<br>New York, NY 10014<br>This new restaurant has a great atmosphere and you're sure to see some celebrities.  The restaurant is such a hot spot and the list of celebrity diners jsut gets longer and longer.  Some recent guests of the restaurants include Jimmy Fallon, Mariah Carey, Camerion Diaz, Lindsay Lohan and Gwenyth Paltrow.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/wkZ139hPQoRul1WecUoF82ewXYLCNrVf910g3WVR_WEhz1MDDgCOoME3WP5bmDEU1RNQCL6FFO6m50GtDVcEvBh98m49AsSCZS4z4qiTurjDuP2KwY2AVaLCs80rydloeG0-3V1DZp-DOlao_ifzsrvEUhsVbAunUmvyoAW_iQ50tyvZdKIsBpoegOmok1ZmyYGf5Rq4-Q</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00218,40.737048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bergdorf Goodman</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/hi9pXdir-5PkPHYwCD1fwfDSJ58-_X4YWZgCs3L4hxc0sG4qa7MykZ4IdBu3KxdCHmitVipq2NGpwi7VPymsjcQE12sDu75iYiFjp8K8TNtwFlcAHWJFF6bo0L2S" height="200" width="auto" /><br><br>754 5th Ave<br>New York, NY 10019<br> <br>This sophisticated store is a popular shoppoing spot for many celebrities including Paris Hilton, Jennifer Aniston, and Beyonce.  The store's spa, Susan Ciminelli Day Spa, is used my tons of celebrities including Salma Hayek, Jennifer Lopez, Kate Moss, and Shakira.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/hi9pXdir-5PkPHYwCD1fwfDSJ58-_X4YWZgCs3L4hxc0sG4qa7MykZ4IdBu3KxdCHmitVipq2NGpwi7VPymsjcQE12sDu75iYiFjp8K8TNtwFlcAHWJFF6bo0L2S</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.973783,40.763248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gramercy Tavern</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/q_iVHJkmZrfJdcT4hVzqFbz9VMq58NHOYgcMX6NtlDD5JJj8QvEsDtZDPY2A-e0ip9YsAu1dMk2K6PgcGDy75jaSXc3fqchuKpnNWrrYiBMIaA" height="200" width="auto" /><br><br>42 E 20th St<br>New York, NY 10003<br>Aside from being one of the best restaurants in the city, it is also a great place to spot a ton of celebrities ranging from Katie Couric to Jimmy Fallon.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/q_iVHJkmZrfJdcT4hVzqFbz9VMq58NHOYgcMX6NtlDD5JJj8QvEsDtZDPY2A-e0ip9YsAu1dMk2K6PgcGDy75jaSXc3fqchuKpnNWrrYiBMIaA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.989109,40.738883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nobu 57</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/kU7WqwmR3-N8JQYr7mvNNSUOFzqROvWxKtdaSshi8rmARwtoqrPK0S1HPrwGprjX3XCQ6QaLbeKqWVJHmoTJs9-0kld0SHjeJPNVdGbQvy7zAEgDdosXWYads2tJ" height="200" width="auto" /><br><br>40 W 57th St<br>New York, NY 10019<br> <br>This mid-town version of Nobu is complete with a sushi bar and private dining room.  Just like Nobu, Nobu 57 is also eaten at by many celebrities such as Madonna, George Clooney, Whoopi Goldberg, and Whitney Houston.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/kU7WqwmR3-N8JQYr7mvNNSUOFzqROvWxKtdaSshi8rmARwtoqrPK0S1HPrwGprjX3XCQ6QaLbeKqWVJHmoTJs9-0kld0SHjeJPNVdGbQvy7zAEgDdosXWYads2tJ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.975257,40.763496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sherry-Netherland</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/crzMJqbjBfhOsKz4gWAgEhpv09jgtn7nRKYPbY7FAo3JyMea9GAi1q7KDPrVoQSujyJhO2E7oakj6xhNJTUwQ1iXFqC2DodpBNLQXH0ffhucgDh38Bsp929xSVANxbQWDuxujq8Mk1hcqA" height="200" width="auto" /><br><br>781 5th Ave<br>New York, NY 10022<br> <br>This hotel is one of the finest ones in Manhattan and is frequently visited by many celebrities.  The hotel is also home to hot spot restaurant Cipriani where Kevin Bacon, Usher, Nicole Richie, and Julia Roberts have all been seen.  Garren New York hair salon is also within the hotel and this where celebrities like Kate Moss, Oprah, Madonna, and Nicole Kidman have all been for their hair needs.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/crzMJqbjBfhOsKz4gWAgEhpv09jgtn7nRKYPbY7FAo3JyMea9GAi1q7KDPrVoQSujyJhO2E7oakj6xhNJTUwQ1iXFqC2DodpBNLQXH0ffhucgDh38Bsp929xSVANxbQWDuxujq8Mk1hcqA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.972875,40.764508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marquee</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/KsT0WmQnurm0HupMFolSMe90sUXwrgcdxd__FA3CWNoxuaJgSHDRWazSQsH0gm-BmIQ4BnnRUyCGNyqBhRspZOnEfZLKvHO49y1VA5qdJsdrrn00MtYkQ2AQrobbTmchQ6Xa-g" height="200" width="auto" /><br><br>289 10th Ave<br>New York, NY 10001<br> <br>This posh club is a frequent hot spot for celebrity club-goers.  Some celebrities who party here are Paris Hilton, Mariah Carey, and Jessica Simpson.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/KsT0WmQnurm0HupMFolSMe90sUXwrgcdxd__FA3CWNoxuaJgSHDRWazSQsH0gm-BmIQ4BnnRUyCGNyqBhRspZOnEfZLKvHO49y1VA5qdJsdrrn00MtYkQ2AQrobbTmchQ6Xa-g</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.002526,40.749977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dylan&apos;s Candy Bar</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/agKrCEsQ7T37ivW3e57I24m8gQJ0rocYCmEfFsyyoW7efU0pJ1ZKsYzxE6nW3i99wu8yioL0V7PPJ7VbmdUf2G1YCC78aChQGwzuuVSkFFHTWThHlhucar5X8dax" height="200" width="auto" /><br><br>1011 3rd Ave<br>New York, NY 10021<br><br>This 2-story candy bar has the largest selection and widest variety of candy and sweets.  A variety of celebrities, such as Amanda Bynes, Bill Clinton, and Jay-Z have stopped by this candy bar.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/agKrCEsQ7T37ivW3e57I24m8gQJ0rocYCmEfFsyyoW7efU0pJ1ZKsYzxE6nW3i99wu8yioL0V7PPJ7VbmdUf2G1YCC78aChQGwzuuVSkFFHTWThHlhucar5X8dax</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.96608600000002,40.762203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Da Silvano</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/PYwYhEqy3J-KtOigHpovkkaCp0sq8FD6cn2auPL1DHka2NIyrppsinSZ0wbkJ2T_L--dyBJN-YoGsK7Rg2eL2qm51wj0gfxzKQ" height="200" width="auto" /><br><br>260 6th Ave<br>New York, NY 10014<br> <br>This Italian restaurant is a favorite to many and has had its fair share of celebrity customers, including Nicole Richie, Mayor Bloomberg, and Rhianna.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/PYwYhEqy3J-KtOigHpovkkaCp0sq8FD6cn2auPL1DHka2NIyrppsinSZ0wbkJ2T_L--dyBJN-YoGsK7Rg2eL2qm51wj0gfxzKQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00243700000002,40.729112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tenjune</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/VCNTEUd0tBXkRWPPV-496le096P6epj9xpHjgHzGTuIXUm9SyR0Sq-LYHGItYk0GGY2QKqFJrXI2Ga2fdf0ocHIdOqOOFBTw1_WQ4Xcct17jzRqbU_yU" height="200" width="auto" /><br><br>26 Little West 12th St<br>New York, NY 10014<br> <br>This swanky club-lounge is definately the place where the celebs go to party.  Celebs such as Jessica Simpson, Andy Rodick, Derek Jeter, and Cameron Diaz have all partied here.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/VCNTEUd0tBXkRWPPV-496le096P6epj9xpHjgHzGTuIXUm9SyR0Sq-LYHGItYk0GGY2QKqFJrXI2Ga2fdf0ocHIdOqOOFBTw1_WQ4Xcct17jzRqbU_yU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.00735899999999,40.740037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sava Spa</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/LMnYUjZkDEFcQfDr0JaQRsO8-P3BlSOfJWrbPN-Qgblax3e_5Pfxh2DpZdJk1p5tVrp7NROh3N7dk-ZbapAMIItzeb4CW5cxTgjUFBFHefhhE6L_ig" height="200" width="auto" /><br><br>211 Pinehurst Ave<br>New York, NY 10033<br>This spa may be out of the way in comparison to other destinations in the city, but celebs such as Uma Thurman, Natasha Richardson, and Christy Turlington all venture here for their spa and beauty needs.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/LMnYUjZkDEFcQfDr0JaQRsO8-P3BlSOfJWrbPN-Qgblax3e_5Pfxh2DpZdJk1p5tVrp7NROh3N7dk-ZbapAMIItzeb4CW5cxTgjUFBFHefhhE6L_ig</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.938148,40.854229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Socialista</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/FPF2Sq9Tac-2WN3JmLOu0t5T5a3a_p-WcKfFgR-K82YCjDdYzS8QAkKESFGfHPO3D1Jmm9glTkQ-GQ8B2jTxelGxI3i_RVc" height="200" width="auto" /><br><br>505 West St<br>New York, NY 10014<br>This restaurant and lounge is popular amoung celebs since its so difficult to get in to.  Celebs that have been spotted here include Sting, Bruce Willis, and Leonardo DiCaprio.  Although this bar played host to Ashton Kutcher's birthday party and attracted a ton of celebrs, you might want to stay away from here for a little while being as the party-goers are at risk for contracting hepatits A from a bartender who may have passed it on.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/FPF2Sq9Tac-2WN3JmLOu0t5T5a3a_p-WcKfFgR-K82YCjDdYzS8QAkKESFGfHPO3D1Jmm9glTkQ-GQ8B2jTxelGxI3i_RVc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.009699,40.738242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Per Se</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/tZkjHnrUk1wlecsDI0mm-XHQsms-sm6e6Mcu-RYuoH-K65GkDbEw8QLpcHRf9FPNYorcRX4tfq4tA31YTpbE2I__0Sv_4p95Mk-tE0kKiGSeVz-l" height="200" width="auto" /><br><br>10 Columbus Circle<br>New York, NY 10019<br> <br>This trendy restaurant is always full of celebs.  Some celebrities seen here include P. Diddy, Derek Jeter, and Penelope Cruz.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/tZkjHnrUk1wlecsDI0mm-XHQsms-sm6e6Mcu-RYuoH-K65GkDbEw8QLpcHRf9FPNYorcRX4tfq4tA31YTpbE2I__0Sv_4p95Mk-tE0kKiGSeVz-l</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.98229499999999,40.767747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waldorf-Astoria</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/evrztoOcVoWAVw1Gh7rRouRkL7tXQ08O7v9ig7ojOpbEW9RNCfOrf8QDMHxeLucYjBWJ4EBXnrSt2acjOiBxB7VD4AS4DYg" height="200" width="auto" /><br><br>301 Park Ave<br>New York, NY 10022<br>This hotel is the epitome of luxury and splendor which is why it has had so many celebrity guests.  While Nicky and Paris Hilton practically grew up here, other celebrity guests include Winonna Ryder, Richard Gere, and Cuba Gooding, Jr.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/evrztoOcVoWAVw1Gh7rRouRkL7tXQ08O7v9ig7ojOpbEW9RNCfOrf8QDMHxeLucYjBWJ4EBXnrSt2acjOiBxB7VD4AS4DYg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.974296,40.756533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Equinox</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/NiD7G-K-5bF19oKpBz7J2wpU57HQFo7Q1KO5ZRJg-A_YWitKxoJp9oLH5aZDfEJVu-cw_625Jzp93WJMhJagS8EPoz5H-L4hkIhHLTUKOwkbjasHIKo" height="200" width="auto" /><br><br>1 Park Ave<br>New York, NY 10016<br> <br>This is truly the gym to the stars.  Celebrity gym-goes at this Equinox location include Nicole Richie, Gwenyth Paltrow, and Julianne Moore.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/NiD7G-K-5bF19oKpBz7J2wpU57HQFo7Q1KO5ZRJg-A_YWitKxoJp9oLH5aZDfEJVu-cw_625Jzp93WJMhJagS8EPoz5H-L4hkIhHLTUKOwkbjasHIKo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.981965,40.746066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spice Market</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/I8-30HbfCJn17FcJICjvFOVCK1GEcTtddlLSwZX7Z9x-aHZuZU9V14MbmGOqmc3myTGhiO1e1BlFwZTeBurU1dy5HEBYt9qhqWE" height="200" width="auto" /><br><br>403 W 13th St<br>New York, NY 10014<br> <br>This pan-asian restaurant is very popular with celebrities and athletes, like Jason Giambi, and it is also always surrounded by paparazzi outside.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/I8-30HbfCJn17FcJICjvFOVCK1GEcTtddlLSwZX7Z9x-aHZuZU9V14MbmGOqmc3myTGhiO1e1BlFwZTeBurU1dy5HEBYt9qhqWE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.006002,40.740334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gramercy Park Hotel</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/CE3ICMi9Gq3OEuwvB-6A5m1WO3_NIaHCV0AokEKEI_R8pa3lsv86JZT6MlAjWrbqm439GJT5f4Gp5WrgVfqv_ALnkv_msq6KeOBtD-mRCGCCnvqJOxnxOsMNfA" height="200" width="auto" /><br><br>2 Lexington Ave<br>New York, NY 10010<br>This luxury boutique hotel is favorite among celebrities such as Bill Clinton, Kate Hudson, and Chris Rock.  The hotel's two bars, Rose Bar and Jade Bar are big hot spots in the city and frequently visited by many celebrities who aren't even staying in the hotel.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/CE3ICMi9Gq3OEuwvB-6A5m1WO3_NIaHCV0AokEKEI_R8pa3lsv86JZT6MlAjWrbqm439GJT5f4Gp5WrgVfqv_ALnkv_msq6KeOBtD-mRCGCCnvqJOxnxOsMNfA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.985642,40.738305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sutra Lounge</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/S-IR9yw_BuiW-nNnTKyNSiQUJo7zc5MfBUUcGvtTjidaLwiZopnG3wbv5Pg_7uDv5pCUwsgQbeEQ6Q4c0a_Kzjyb84Yyk_WBcX0LuFBn7zCqiAIv3A13oOY" height="200" width="auto" /><br><br>16 1st Ave<br>New York, NY 10009<br>This hip and trendy lounge attracts a ton of celebrities and other A-listers.  Rosario Dawson and Drea de Matteo have both been spotted lounging here.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/S-IR9yw_BuiW-nNnTKyNSiQUJo7zc5MfBUUcGvtTjidaLwiZopnG3wbv5Pg_7uDv5pCUwsgQbeEQ6Q4c0a_Kzjyb84Yyk_WBcX0LuFBn7zCqiAIv3A13oOY</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.988298,40.72348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Plaza</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/C6QZNrHpljbOhf_q1cGv5w4wjjyeTzyot-fpwTXrnUC7_t0SuGpbNOZARF8XVGhWx26Lcyz7k8NCeRzxTMgtWyj8qVJWIALWsOppii6gj5r4" height="200" width="auto" /><br><br>750 5th Ave<br>New York, NY 10019<br> <br>This hotel grand hotel reigns over Manhattan and attracts tons of celebrities.  Catherine Zeta-Jones and Michael Douglass had their wedding here while Larry King and Sharon Stone are known to be guests.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/C6QZNrHpljbOhf_q1cGv5w4wjjyeTzyot-fpwTXrnUC7_t0SuGpbNOZARF8XVGhWx26Lcyz7k8NCeRzxTMgtWyj8qVJWIALWsOppii6gj5r4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.973843,40.763166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenue</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/edw21fOrOdtEzdq6jBmZlihn1v0kK-ZSRRfhxrG-KB2athOys5SGFDtvvwrIlmOBGwbshwmz6UGj0v-VsN74QvdSztKRBqvD5bQ8N2lkGdxdBWWr" height="200" width="auto" /><br><br>116 10th Ave. <br>New York, NY 10011<br><br>This trendy club is brought to you by the same people who brought you Marquee.  If you are able to get past the door, this is definitely the place to see celebrities.   Leonardo DiCaprio, Lindsay Lohan Kate Hudson, and A-Rod are just a few of the many celebs who have spent many late nights here.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/edw21fOrOdtEzdq6jBmZlihn1v0kK-ZSRRfhxrG-KB2athOys5SGFDtvvwrIlmOBGwbshwmz6UGj0v-VsN74QvdSztKRBqvD5bQ8N2lkGdxdBWWr</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.006377,40.744075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Esquina</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/D6M5Fla9iDOs9tspGarQTPO118L7lPTe-MQemg-7pm9nV7MfA3GTc2RpItpnk26_GURQzgTFjTohcWmg3KJ-IKUCBCIIXpGuUGiAafs" height="200" width="auto" /><br><br>106 Kenmare St.<br>New York, NY 10012<br> <br>This Nolita Mexican restaurant is also a little difficult to get into but is frequented by many celebrities such as Beyonce, Jay-Z, and John Mayer.  The downstairs is also the place to sit if you are able to pull off a reservation down there even though the door leading the way to the basement is marked "Employees Only".]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/D6M5Fla9iDOs9tspGarQTPO118L7lPTe-MQemg-7pm9nV7MfA3GTc2RpItpnk26_GURQzgTFjTohcWmg3KJ-IKUCBCIIXpGuUGiAafs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.99749900000001,40.72144600000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Eldridge</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/vtlw5KvRar6ajnqN5rxQinC_YcSnYUQ8FjJX20zmMmpGNYIEWFF63rDkNKdOLxPtgA13sNJL8UDrTpqzvAW6EOYCtMMESBr7sv_SZRuV9kUzzaBOv906JYhktiRtVc-9VOFK" height="200" width="auto" /><br><br>247 Eldridge St<br>New York, NY 10002<br> <br>This hot spot also may be a little difficult to get in but it is definitely the place to be.  Although owner Matt Levine said that the cast of The Jersey Shore was not welcome to do their fist pumping at The Eldridge, there have been many party-goers who are actually celebrities including Kate Moss and Lydia Hearst.]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/vtlw5KvRar6ajnqN5rxQinC_YcSnYUQ8FjJX20zmMmpGNYIEWFF63rDkNKdOLxPtgA13sNJL8UDrTpqzvAW6EOYCtMMESBr7sv_SZRuV9kUzzaBOv906JYhktiRtVc-9VOFK</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.989766,40.722824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABC Kitchen</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-73.98962499999999,40.73775819999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
