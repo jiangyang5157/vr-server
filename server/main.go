@@ -11,7 +11,7 @@ import (
 /*
 curl -i http://127.0.0.1:8080/api/test
 curl -i http://127.0.0.1:8080/assets/
-curl -i http://127.0.0.1:8080/assets/static/kml/example.kml
+curl -i http://127.0.0.1:8080/assets/static/layer/example.kml
 */
 
 func main() {
