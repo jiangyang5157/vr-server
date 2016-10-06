@@ -20,13 +20,13 @@ curl -i http://127.0.0.1:8080/assets/static/layer/example.kml
 
 func main() {
 
-	//rest server
+	//RESTful server
 	api := rest.NewApi()
 	api.Use(rest.DefaultDevStack...)
 	router, err := rest.MakeRouter(
 		rest.Get("/test", func(w rest.ResponseWriter, r *rest.Request) {
 			w.WriteJson(map[string]string{
-				"key": "value",
+				"Key": "Hello World!",
 			})
 		}),
 	)
@@ -34,11 +34,10 @@ func main() {
 		log.Fatal(err)
 	}
 	api.SetApp(router)
+	http.Handle("/api/", http.StripPrefix("/api", api.MakeHandler()))
 
 	// file server
-	http.Handle("/api/", http.StripPrefix("/api", api.MakeHandler()))
 	http.Handle("/assets/", http.StripPrefix("/assets", http.FileServer(http.Dir("./assets"))))
-
 	log.Fatal(http.ListenAndServe(":" + strconv.Itoa(app.PORT), nil))
 }
 
