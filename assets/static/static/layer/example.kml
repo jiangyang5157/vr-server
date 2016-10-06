@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<NetworkLink>
+	<Link>
+		<href>http://127.0.0.1:8080/assets/static/kml/example1.kml</href>
+	</Link>
+</NetworkLink>
+
+<Document>
+	<Folder>
+		<Folder>
+			<NetworkLink>
+				<Link>
+					<href>http://127.0.0.1:8080/assets/static/kml/example2.kml</href>
+				</Link>
+			</NetworkLink>
+		</Folder>
+			<Folder>
+			<NetworkLink>
+				<Link>
+					<href>http://127.0.0.1:8080/assets/static/kml/example3.kml</href>
+				</Link>
+			</NetworkLink>
+		</Folder>
+	</Folder>
+</Document>
+
+<Placemark>
+	<name>example.NotFromNetworkLink</name>
+	<Point>
+		<coordinates>174.76192,-36.84845</coordinates>
+	</Point>
+</Placemark>
+</kml>

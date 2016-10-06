@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+	<Folder>
+		<NetworkLink>
+			<Link>
+				<href>http://127.0.0.1:8080/assets/static/kml/Shipwrecks.kml</href>
+			</Link>
+		</NetworkLink>
+	</Folder>
+	
+	<Folder>
+		<Placemark>
+			<name>example3.extra</name>
+			<Point>
+				<coordinates>144.76192,-36.84845</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
