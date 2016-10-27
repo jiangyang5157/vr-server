@@ -26,7 +26,7 @@ func main() {
 	router, err := rest.MakeRouter(
 		rest.Get("/test", func(w rest.ResponseWriter, r *rest.Request) {
 			w.WriteJson(map[string]string{
-				"Key": "Hello World!",
+				"Whatsup": "Hello World!",
 			})
 		}),
 	)
