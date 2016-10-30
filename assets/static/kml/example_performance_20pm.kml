@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+		<Placemark>
+			<name>Yosemite National Park</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-119.54084,37.83935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abraham Lincoln Birthplace National Historical Park (KY)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/cC9Dsn0nKePVabuhrQaf4Ummq_sIRoCz-ihhu-2fUz3P3l9bn2E7H_LOYNyJe1O7Ck1DF2XBXFoqNof1hUsk9DFuJnJ1AACr3kTQKJBIJSmshg8i8WwvRiwXeyQ27FrrVF_1QRteaKVUDA" height="200" width="auto" /><br><br>AbrahamLincoln Birthplace National Historical Park preserves two farm sites whereAbraham Lincoln lived as a child.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Theoriginal Memorial was constructed by the Lincoln Farm Association. In 1916,they donated the Memorial to the Federal government, which established theAbraham Lincoln National Park on July 17, 1916. The War Department administeredthe site until August 10, 1933, when it was transferred to the National ParkService. It was designated as the Abraham Lincoln National Historical Park onAugust 11, 1939. It was renamed and redesignated Abraham Lincoln BirthplaceNational Historic Site on September 8, 1959. The historic site's definition wasexpanded to include the Knob Creek site on November 6, 1998. On March 30, 2009,the site was redesignated a National Historical Park. (Source Wikipedia (http://en.wikipedia.org/wiki/Abraham_Lincoln_Birthplace_National_Historical_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/abli]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/cC9Dsn0nKePVabuhrQaf4Ummq_sIRoCz-ihhu-2fUz3P3l9bn2E7H_LOYNyJe1O7Ck1DF2XBXFoqNof1hUsk9DFuJnJ1AACr3kTQKJBIJSmshg8i8WwvRiwXeyQ27FrrVF_1QRteaKVUDA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.737488,37.53117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Acadia National Park (ME)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/iEc6cfBiJlOn711nn_NBXmcMYa5bcnMNh2bFylkpjmVkT9WVnWtG-RxCou1Bk_-oVLC5Rm7NoL56k0qk3KbtkGYt9hgmZjPGrGlrjT4fTmY7e9ni7hN4i3WyrbSClw" height="200" width="auto" /><br><br>AcadiaNational Park preserves much of Mount Desert Island, and associated smallerislands, off the Atlantic coast of Maine. Originally inhabited by the Wabanakipeople, the area includes mountains, an ocean shoreline, woodlands, and lakes.In addition to Mount Desert Island, the park comprises much of the Isle auHaut, a small island to the southwest of Mount Desert Island and parts of BakerIsland, also nearby. A portion of Schoodic Peninsula on the mainland is alsopart of the park. In total, Acadia National Park consists of 30,300 acres (47square miles or 123 km2) on Mount Desert Island, 2,728 acres (4.6 square milesor 11 km2) on Isle au Haut and 2,366 acres (3.5 square miles or 9.2 km2) on theSchoodic Peninsula.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Thelandscape architect Charles Elliot is credited with the idea for the park. Itfirst attained federal status when President Woodrow Wilson, established it asSieur de Monts National Monument on July 8, 1916, administered by the NationalPark Service. On February 26, 1919, it became a national park, with the nameLafayette National Park in honor of the Marquis de Lafayette, an influentialFrench supporter of the American Revolution. The park's name was changed toAcadia National Park on January 19, 1929. From 1915 to 1933, the wealthy philanthropistJohn D. Rockefeller, Jr. financed, designed, and directed the construction of anetwork of carriage trails throughout the park. The network encompassed over 50miles (80 km) of gravel carriage trails, 17 granite bridges, and two gatelodges, almost all of which are still maintained and in use today. Cut granitestones placed along the edges of the carriage roads act as guard rails of sortand are locally known as "coping stones" to help visitors cope withthe steep edges. They are also fondly called "Rockefeller's teeth". (Source Wikipedia (http://en.wikipedia.org/wiki/Acadia_National_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/acad]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/iEc6cfBiJlOn711nn_NBXmcMYa5bcnMNh2bFylkpjmVkT9WVnWtG-RxCou1Bk_-oVLC5Rm7NoL56k0qk3KbtkGYt9hgmZjPGrGlrjT4fTmY7e9ni7hN4i3WyrbSClw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.216827,44.349953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adams National Historical Park (MA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/v9SBtHSQR-PO-AJWXj0qmJ1BL37UJDyzIAdVyKGbe4fljtLXfDZMHxZgcE5m4h7K6jR7nO5F5mV6e_CPzlZuMe6CkP_XN6_B-fK2tI8YA5ne5pb7iUypjOnA0XQNQ_-u" height="200" width="auto" /><br><br>Adams National Historical Park, formerly Adams National Historic Site, in Quincy, Massachusetts, preserves the home of Presidents of the United States John Adams and John Quincy Adams, of U.S. Ambassador to Great Britain, Charles Francis Adams, and of the writers and historians Henry Adams and Brooks Adams.<br><br>The national historical park's eleven buildings tell the story of five generations of the Adams family (from 1720 to 1927) including Presidents, First Ladies, U.S. Ministers, historians, writers, and family members who supported and contributed to their success. In addition to "Peacefield," home to four generations of the Adams family, the park's main historic features include: John Adams birthplace (October 30, 1735), the nearby John Quincy Adams birthplace (July 11, 1767); the Stone Library (built in 1870 to house the books of John Quincy Adams and believed to be the first presidential library) containing more than 14,000 historic volumes.<br><br>There is an off-site visitor center less than a mile (1.6 km) away. Regularly scheduled tours of the houses are offered in season (April 19 to November 10), by guided tour only, using a tourist trolley provided by the Park Service between sites. Access to United First Parish Church is provided by the congregation for which they ask a small donation. The church is across the street from the visitor center (Source Wikipedia (http://en.wikipedia.org/wiki/Adams_National_Historical_Park))<br><br>http://www.nps.gov/adam]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/v9SBtHSQR-PO-AJWXj0qmJ1BL37UJDyzIAdVyKGbe4fljtLXfDZMHxZgcE5m4h7K6jR7nO5F5mV6e_CPzlZuMe6CkP_XN6_B-fK2tI8YA5ne5pb7iUypjOnA0XQNQ_-u</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.01120000000002,42.256401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agate Fossil Beds National Monument (NE)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/_g2pw2lClQ_7Nv445Gjq-qO0afPYWyC-Jnb8ObBdzpj7uSTHHA_Js4Setk0u-CN2fXIDcVLY_6mRGzt-7UgtQWesJFucpaCoGgwU2xlZ_EPepF-iMBL9qGd6aQZMoSrjOOUj6l75PySUbLM9qdHBY-M" height="200" width="auto" /><br><br>Agate Fossil Beds National Monument is a U.S. National Monument near Harrison, Nebraska. The main feature of the Monument is a valley of the Niobrara River, and the fossils found on Carnegie Hill and University Hill. The area largely consists of grass-covered plains. Plants on the site include prairie sandreed, blue grama, little bluestem and needle and thread grass, and the wildflowers lupin, spiderwort, western wallflower and sunflowers. The site is best known for the large number of well-preserved Miocene fossils, many of which were found at dig sites on Carnegie and University Hills. Fossils from the site, which date from about 20 million years ago, are among some of the best specimens of Miocene mammals. <br><br>Originally the Agate Springs Ranch, a working cattle ranch, was owned by Capt. James Cook. The monument's museum collection also contains more than 500 artifacts from the Cook Collection of Plains Indian artifacts. The national monument was authorized on June 5, 1965, but was not established until June 14, 1997. (Source Wikipedia (http://en.wikipedia.org/wiki/Agate_Fossil_Beds))<br><br>http://www.nps.gov/agfo]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/_g2pw2lClQ_7Nv445Gjq-qO0afPYWyC-Jnb8ObBdzpj7uSTHHA_Js4Setk0u-CN2fXIDcVLY_6mRGzt-7UgtQWesJFucpaCoGgwU2xlZ_EPepF-iMBL9qGd6aQZMoSrjOOUj6l75PySUbLM9qdHBY-M</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.733353,42.42577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>African Burial Ground National Monument (NY)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VZ3tIaps27T0DC_Hpu4mDbF_Zl7r9IMFpTog3q--2xlS0UHXnQLKe9q1lp6bktCRRowGYOyL7FUSw49keNj7-Cr4z0ocD0C8B2e5u_e1gDuuINYL8Y9LYkj59M3wBI8s3_F2EGbtdIAGKps" height="200" width="auto" /><br><br>African Burial Ground National Monument at Duane Street and African Burial Ground Way (Elk Street) in Lower Manhattan (New York City) preserves a site containing the remains of more than 400 African Americans buried during the 17th and 18th centuries. Historians estimate there may have been 15,000-20,000 burials there. The site's excavation and study was called the most important historic urban archeological project in the United States. The site has been designated a National Historic Landmark and National Monument.<br><br>On February 27, 2006, President George W. Bush signed a proclamation designating the federal land as the 123rd National Monument. It was the 390th unit of the National Park System. This is considered the "most important historic urban archaeological project undertaken in the United States." After the Howard University studies, the remains were reinterred at the site in a respectful ceremony.<br><br>As part of the dedication ceremonies, Elk Street was officially renamed African Burial Ground Way. (Source Wikipedia (http://en.wikipedia.org/wiki/African_Burial_Ground_National_Monument))<br><br>http://www.nps.gov/afbg]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/VZ3tIaps27T0DC_Hpu4mDbF_Zl7r9IMFpTog3q--2xlS0UHXnQLKe9q1lp6bktCRRowGYOyL7FUSw49keNj7-Cr4z0ocD0C8B2e5u_e1gDuuINYL8Y9LYkj59M3wBI8s3_F2EGbtdIAGKps</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.005501,40.715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ala Kahakai National Historic Trail (HI)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/wJ_4mNjw1vJFgk0vmvvnR3TEc1ruOdSGA8EzR0VNXg7f2huWE4Jc0uvn6gcvihLbOpJ6xyTt599ZDO4isnyAGcG_DLI19TCjBtiVTeJHaohmVp5xTW0TIDJ0OP6vCC-XNA" height="200" width="auto" /><br><br>Established in 2000 for the preservation, protection and interpretation of traditional Native Hawaiian culture and natural resources, the Ala Kahakai NHT is a 175-mile trail corridor full of cultural and historical significance. It traverses through hundreds of ancient Hawaiian settlement sites and through over 200 ahupua'a, or traditional sea to mountain land divisions. Cultural resources along the trail include several important heiau (temples), royal centers, kahua (house site foundations), loko 'ia (fishponds) ko`a (fishing shrines), ki‘i pohaku (petroglyphs), holua (stone slide), and wahi pana (sacred places). Natural Resources include anchialine ponds, pali (precipices), nearshore reefs, estuarine ecosystems, coastal vegetation, migratory birds, native sea turtle habitat, and several threatened and endangered endemic species of plants and animals.<br><br>http://www.nps.gov/alka]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/wJ_4mNjw1vJFgk0vmvvnR3TEc1ruOdSGA8EzR0VNXg7f2huWE4Jc0uvn6gcvihLbOpJ6xyTt599ZDO4isnyAGcG_DLI19TCjBtiVTeJHaohmVp5xTW0TIDJ0OP6vCC-XNA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.0298,19.67791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alagnak Wild River (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/e6_wwXieyatzja1JR_-4QD5zexU5Bo4v9Eogqj4qkNukwxzXyqr8N__Y0BMGPE5tHGs3Q2-VXWIteOTDIb189XQiEOlrvnhhlIAFgSaRrRRA1LFWeItfPuoYcltLGBgbG4HxNJBxNqk" height="200" width="auto" /><br><br>The Alagnak River is a 79 mile (127 km) long river in Alaska. It has a catchment area of approximately 1400 square mi (3600 km²). It is located in central Lake and Peninsula Borough. In Yupik, the word "Alagnak" means "to err." Every year, the river changes its course and branches anew, for which reason it is sometimes called the "Branch River."<br><br>Due to the large numbers of salmon, there is a significant bear population in the summer and fall, including both grizzly and black bears. The majority of the catchment area is a winter habitat for Alaskan caribou. Moose are also to be found during the entire year. Along the river, beaver, foxes, wolverines, mink, and otter are all found as well occasional wolf. In the water, there are several varieties of salmon, including sockeye salmon, pink salmon, chum salmon, king salmon, and silver salmon. There are also rainbow trout, char, arctic grayling, and northern pike. Along the river there is also eclectic vegetation including spruces, willows and various types of berries.<br><br>The upper 67 mi (108 km) of the river is designated as a protected "wild and scenic river" in accordance with ANILCA, the Alaska National Interest Land Conservation Act. This part of the river is known as the Alagnak Wild River. (Source Wikipedia (http://en.wikipedia.org/wiki/Alagnak_Wild_River))<br><br>http://www.nps.gov/alag]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/e6_wwXieyatzja1JR_-4QD5zexU5Bo4v9Eogqj4qkNukwxzXyqr8N__Y0BMGPE5tHGs3Q2-VXWIteOTDIb189XQiEOlrvnhhlIAFgSaRrRRA1LFWeItfPuoYcltLGBgbG4HxNJBxNqk</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.796051,59.010632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Public Lands Information Center (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ajNGu1jBE-yhfOeGVpGvfrjXXesUDz5v9L1ydJPrAGl0xDxDBlmNqg2GYVn7uV3wzY3MMJCAHgegMkyzwmamXpNjdFlis1eomyix9OZVD1_qBCk-6UvQ2A01oOVnTAwa8mQELBc6gDtfl3BR-Oo" height="200" width="auto" /><br><br>Alaska’s parks, forest and refuges are rich and varied. The Alaska Centers, interagency visitor centers located in Tok, Fairbanks, Anchorage, and Ketchikan, allow visitors to stop by or write to just one spot for all the information needed to plan an Alaskan adventure. The centers also educate adults and children about the cultural and natural resources on Alaska's public lands.<br><br>http://www.nps.gov/anch]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/ajNGu1jBE-yhfOeGVpGvfrjXXesUDz5v9L1ydJPrAGl0xDxDBlmNqg2GYVn7uV3wzY3MMJCAHgegMkyzwmamXpNjdFlis1eomyix9OZVD1_qBCk-6UvQ2A01oOVnTAwa8mQELBc6gDtfl3BR-Oo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.893845,61.21861999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alcatraz Island (CA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/T54oz5-CruH1TOC95NHesIiHQ45SaCrVah0BOGsplgyoJHUV52gLkjhGUlwUxRaHCFYBkGjY5rYPZ1bkgpNJP_-Fg4xpboFSgF00-Dd7fmBpXMrZ5B-scMWHSP_PjldlcjkxHe1gI9yqfkcTamc" height="200" width="auto" /><br><br>Alcatraz Island is an island located in the San Francisco Bay, 1.5 miles (2.4 km) offshore from San Francisco, California. Often referred to as The Rock, the small island early-on served as a lighthouse, a military fortification, a military prison, and a federal prison until 1963. Later, in 1972, Alcatraz became a national recreation area and received landmarking designations in 1976 and 1986.<br><br>Today, the island is a historic site operated by the National Park Service as part of the Golden Gate National Recreation Area and is open to tours. Visitors can reach the island by ferry ride from Pier 33, near Fisherman's Wharf in San Francisco. Alcatraz has been featured in many movies, TV shows, cartoons, books, comics, and games. (Source Wikipedia (http://en.wikipedia.org/wiki/Alcatraz_Island))<br><br>http://www.nps.gov/alca]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/T54oz5-CruH1TOC95NHesIiHQ45SaCrVah0BOGsplgyoJHUV52gLkjhGUlwUxRaHCFYBkGjY5rYPZ1bkgpNJP_-Fg4xpboFSgF00-Dd7fmBpXMrZ5B-scMWHSP_PjldlcjkxHe1gI9yqfkcTamc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.423317,37.827007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aleutian World War II National Historic Area (AK)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VG3MUjz_K8y-GkJpeJlbacBASM6St0LC-1u41s76luJKaCTDiGR61bnYWuTJGTyKecszZzGh6YoDOW4gpQySU69RDYy68ZuPFNeqI8Q6GPu2zlYBn1exXR39sJozJDDQDn-6kUTWdik" height="200" width="auto" /><br><br>The Aleutian World War II National Historic Area is a U.S. National Historic Site on Amaknak Island in the Aleutian Island Chain of Alaska. It offers visitors a glimpse of both natural and cultural history, and traces the historic footprints of the U.S. Army Base, Fort Schwatka, located at the Ulakta Head on Mount Ballyhoo. The fort, 800 miles west of Anchorage, the nearest large urban center, was one of four coastal defense posts built to protect Dutch Harbor (crucial back door to the United States) during World War II; Fort Schwatka is also the highest coastal battery ever constructed in the United States. Engineers designed the concrete observation posts and command stations to withstand earthquakes and 100 mph winds. Although today, many of the bunkers and wooden structures of Fort Schwatka have collapsed, the gun mounts and lookouts are among the most intact in the country.<br><br>In 1996, the United State Congress designated this a National Historic Area as a way of educating future generations both about the history of the Aleut people, and the role the Aleutian Islands played in the defense of the United States in World War II. (Source Wikipedia (http://en.wikipedia.org/wiki/Aleutian_World_War_II_National_Historic_Area))<br><br>http://www.nps.gov/aleu]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/VG3MUjz_K8y-GkJpeJlbacBASM6St0LC-1u41s76luJKaCTDiGR61bnYWuTJGTyKecszZzGh6YoDOW4gpQySU69RDYy68ZuPFNeqI8Q6GPu2zlYBn1exXR39sJozJDDQDn-6kUTWdik</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.528748,53.88822900000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alibates Flint Quarries National Monument (NE)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/r8CkKfvg47TfX-93-OxwhSjqY-qAeYp7uZ86NkI045McsdSc3fYHbv2Xrc7aADy8Hu9566BLi0sahhHXP3W2BjYL4T149Du-eQnJXVNn_AovXYaMnHg5fhK8A1D4P0mi-qFHpHRcVcFhOBXe" height="200" width="auto" /><br><br>Alibates Flint Quarries National Monument is a United States National Monument in the State of Texas. For thousands of years, people came to the red bluffs above the Canadian River for flint, vital to their existence. Demand for the high quality, rainbow-hued flint is reflected in the distribution of Alibates Flint through the Great Plains and beyond. Today this area is protected by the U.S. National Park Service and can only be viewed by ranger-led guided tours, which must be made in advance.<br><br>Alibates Flint Quarries is the only National Monument in the state of Texas, and is an integral part of Lake Meredith National Recreation Area.<br><br>The monument was authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument on August 21, 1965, but the designation was shortened to the current name on November 10, 1978. (Source Wikipedia (http://en.wikipedia.org/wiki/Alibates_Flint_Quarries_National_Monument))<br><br>http://www.nps.gov/alfl]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/r8CkKfvg47TfX-93-OxwhSjqY-qAeYp7uZ86NkI045McsdSc3fYHbv2Xrc7aADy8Hu9566BLi0sahhHXP3W2BjYL4T149Du-eQnJXVNn_AovXYaMnHg5fhK8A1D4P0mi-qFHpHRcVcFhOBXe</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.676643,35.586716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allegheny Portage Railroad (PA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/BlFGqjYsJDIt9GsziQRc0p9RMjHHAPQrdNsDnheuqSqmmbSYzIV06q4gZZm7oJE0ZCS32KaoPFc7p9fY8RcWMCEArf0DcisUdAGtWqE1DX8-lV8hNPbfXH81Bj_7AE0" height="200" width="auto" /><br><br>The Allegheny Portage Railroad was the first railroad constructed through the Allegheny Mountains in central Pennsylvania, United States. It was a series of 10 inclines, approximately 36 miles (58 km) long, and operated from 1834 to 1854. It connected two canal divisions of the Main Line of Public Works of the Pennsylvania Canal from Johnstown on the west to Hollidaysburg on the east, thus allowing continuous barge traffic between the Ohio and the Susquehanna rivers. Considered a technological marvel in its day, it played a critical role in opening the interior of the United States beyond the Appalachian Mountains to settlement and commerce. It included the first railroad tunnel in the United States, the Staple Bend Tunnel, and its inauguration was marked with great fanfare.<br><br>Today, the remains of the railroad are preserved within the Allegheny Portage Railroad National Historic Site operated by the National Park Service. The site was established on 1,296 acres (524 ha) in 1964 and is about 12 miles (19.3 km) west of Altoona,[citation needed] in Blair and Cambria counties. (Source Wikipedia (http://en.wikipedia.org/wiki/Allegheny_Portage_Railroad))<br><br>http://www.nps.gov/alpo/index.htm]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/BlFGqjYsJDIt9GsziQRc0p9RMjHHAPQrdNsDnheuqSqmmbSYzIV06q4gZZm7oJE0ZCS32KaoPFc7p9fY8RcWMCEArf0DcisUdAGtWqE1DX8-lV8hNPbfXH81Bj_7AE0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.54027600000001,40.454166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amistad National Recreation Area (TX)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/jKNyn8jL4JASBtFqn5CsFoqYmPmGpwxuJbjDOL3yGDgxkLLwC9dU55_gwDSAnmfHYgmxJnBfQSW4rh5o022Q86EjEpcOAOBUh2w01cygXYXLnNHBRDzo752erILE" height="200" width="auto" /><br><br>Amistad National Recreation Area includes the area around the Amistad Reservoir at the confluence of the Rio Grande River, the Devils River, and the Pecos River. "Amistad" is Spanish for "friendship", as the Amistad Reservoir is located on the border with Mexico. The reservoir was created by Amistad Dam in 1969.<br><br>The lake provides year-round, water-based recreation opportunities, including boating, fishing, swimming, scuba diving and water-skiing, as well as other recreational opportunities for picnicking, camping and hunting. The area is rich in archeology and rock art, and contains a wide variety of plant and animal life. For highly experienced scuba divers, there is a system of deep underwater caves that can be accessed. The dive includes exotic gas mixes, pre-placement of gas cylinders, and extensive decompression times at depth. These caves are considered extremely hazardous and should not be attempted by anyone without extensive training and preparation.<br><br>The site was administered under a cooperative agreement with the International Boundary and Water Commission as Amistad Recreation Area, November 11, 1965. It was authorized as a National Recreation Area on November 28, 1990. (Source Wikipedia (http://en.wikipedia.org/wiki/Amistad_National_Recreation_Area))<br><br>http://www.nps.gov/amis]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/jKNyn8jL4JASBtFqn5CsFoqYmPmGpwxuJbjDOL3yGDgxkLLwC9dU55_gwDSAnmfHYgmxJnBfQSW4rh5o022Q86EjEpcOAOBUh2w01cygXYXLnNHBRDzo752erILE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.055939,29.449911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anacostia Park (MD)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/0n_9A0byTLFNrANJraE74TJ2af88dDxbUo3H1WZsheYQxZBbdqsQo4unDP8VeJdqzNeqAvmvi80n-EdUS71jpqrxVLTvJWSvtIa6OhpKaLrjv1hL0RIx0sNtjCuA8Fava_M" height="200" width="auto" /><br><br>AnacostiaPark is operated by the United States National Park Service. It is one ofWashington, D.C.'s largest and most important recreation areas, with over 1200acres (4.9 km²) at multiple sites. Included in Anacostia Park is KenilworthPark and Aquatic Gardens and Kenilworth Marsh. Hundreds of acres are availablefor ballfields, picnicking, basketball, tennis, and the Anacostia Park Pavilionhas some 3300 square feet (307 m²) of space for roller skating and specialevents. The Langston Golf Course offers an 18 hole course as well as a drivingrange, and three concession-operated marinas, four boat clubs, and a publicboat ramp provide for access to the tidal Anacostia River for recreationalboating.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"Eagles'Nest", the headquarters of the United States Park Police helicopteraviation unit is located in Anacostia Park. Additionally, the headquarters ofNational Capital Parks-East is located within the park. (Source Wikipedia (http://en.wikipedia.org/wiki/Anacostia_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> <br>http://www.nps.gov/anac]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/0n_9A0byTLFNrANJraE74TJ2af88dDxbUo3H1WZsheYQxZBbdqsQo4unDP8VeJdqzNeqAvmvi80n-EdUS71jpqrxVLTvJWSvtIa6OhpKaLrjv1hL0RIx0sNtjCuA8Fava_M</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.97051999999999,38.877872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andersonville National Historic Site (GA)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mG3MqMtBPAzlwr8G25bVAytYVGOWZF0opU8A-NmSXaII6i2DAQSn_D9BeujAUtKd41QVm7hV7TZkomCcevcHUr0Dya9Pka5QpxdOyukCjt_e6KOJNP8rFYLOy3NOFsHXHW-5g78pJkp4" height="200" width="auto" /><br><br>TheAndersonville prison, officially known as Camp Sumter, was the largestConfederate military prison during the American Civil War. The site of the prisonis now Andersonville National Historic Site in Andersonville, Georgia. Most ofthe site actually lies in extreme southwestern Macon County, adjacent to theeast side of Andersonville. It includes the site of the Civil War prison, theAndersonville National Cemetery, and the National Prisoner of War Museum. Inall, 12,913 of the approximately 45,000 Union prisoners died there because ofstarvation, malnutrition, diarrhea, and disease. (Source Wikipedia (http://en.wikipedia.org/wiki/Andersonville_National_Historic_Site))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/ande]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/mG3MqMtBPAzlwr8G25bVAytYVGOWZF0opU8A-NmSXaII6i2DAQSn_D9BeujAUtKd41QVm7hV7TZkomCcevcHUr0Dya9Pka5QpxdOyukCjt_e6KOJNP8rFYLOy3NOFsHXHW-5g78pJkp4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.12707500000001,32.197422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andrew Johnson National Historic Site (TN)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/j8wVTf6wojYnjv9j6t23Q8FqN5wZrPGLeICAPFotl7COb66Jz08CCKr9zYbwKfxAWNCpqxXtU1kkJLpepDhKi1LuJidUJPk5MC1vG-eX9_JFW0oj_5us8XToF79RkafqS55IXOnK49L5N3vERw" height="200" width="auto" /><br><br>AndrewJohnson National Historic Site is a National Historic Site in Greeneville,Tennessee, maintained by the National Park Service. It was established to honorAndrew Johnson, 17th President of the United States, who became president afterAbraham Lincoln's death. The site includes two of Johnson's homes, his tailorshop, and his grave site within the Andrew Johnson National Cemetery.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Thecemetery also includes the interments of Johnson's wife, Eliza McCardleJohnson, and son Brigadier General Robert Johnson. David T. Patterson, a UnitedStates Senator from Tennessee, and his son Andrew J. Patterson, who wasinstrumental in securing historic designation for the Greeneville propertiesassociated with Andrew Johnson, were among others buried in the cemetery. Thesite was designated a U.S. National Monument in 1935 and redesignated aNational Historic Site on December 11, 1963. (Source Wikipedia (http://en.wikipedia.org/wiki/Andrew_Johnson_National_Historic_Site))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/anjo]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/j8wVTf6wojYnjv9j6t23Q8FqN5wZrPGLeICAPFotl7COb66Jz08CCKr9zYbwKfxAWNCpqxXtU1kkJLpepDhKi1LuJidUJPk5MC1vG-eX9_JFW0oj_5us8XToF79RkafqS55IXOnK49L5N3vERw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.82943,36.162464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aniakchak National Monument and Preserve (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/6Q_2XPgljZnVxoO9EkuCO9kPHm2djbN-1oGXtZFYy8WgFXx_x3o31z6MnOugWuVaP70wBwcL5zdEz_2VIeeCppsmMwNJJQUjvfe4lYoHyfxJMwsZWnvc5fyrCrsmZE_Kjy0tECafiJZG2khHIKNqBwg" height="200" width="auto" /><br><br>Aniakchak National Monument and Preserve is a U.S. NationalMonument and National Preserve, consisting of the region around the Aniakchakvolcano on the Aleutian Range of south-western Alaska.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The area was proclaimed a national monument on December 1,1978, and established as a national monument and preserve on December 2, 1980.The national monument is 137,176 federal acres (555 km²) and the preserve is465,603 acres (1,884 km²) of which 439,863 are federal. The area is maintainedby the National Park Service. With only 285 documented recreational visits in2004, this remote place is perhaps the least visited unit of the National ParkSystem. Most visitors fly into the area, but the frequent fog and other adverseweather conditions make landing difficult.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Aniakchak region is part of the Pacific Ring of Fire,and the national monument consists of the caldera around Mount Aniakchak, withnotable examples of several volcanic features - such as lava flows and cindercones. Surprise Lake, located within the caldera, is the source of theAniakchak River, a National Wild and Scenic River. The Aniakchak Bay HistoricLandscape District surrounds the Aniakchak River from Aniakchak Crater toAniakchak Bay and was listed on the National Register of Historic Places onFebruary 14, 1997. (Source Wikipedia (http://en.wikipedia.org/wiki/Aniakchak_National_Monument_and_Preserve))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/ania]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/6Q_2XPgljZnVxoO9EkuCO9kPHm2djbN-1oGXtZFYy8WgFXx_x3o31z6MnOugWuVaP70wBwcL5zdEz_2VIeeCppsmMwNJJQUjvfe4lYoHyfxJMwsZWnvc5fyrCrsmZE_Kjy0tECafiJZG2khHIKNqBwg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.141327,56.880688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antietam National Battlefield (MD)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/m5sA9n4BIMQ99dlg2kMR6xecK1MHyTDRn89t0aQ5zE4ZHH0n64my2iO57QMXqV91HwLi6KgiuqmuZkEhyupsPKPsRluuE3W4Etd-oO8QR0lTLNrfot5NiBV3pRBoiRb3dGcNraN45hkesFPZmeE" height="200" width="auto" /><br><br>Antietam National Battlefield is a National Park Service protected area along Antietam Creek in Sharpsburg, Maryland which commemorates the American Civil War Battle of Antietam that occurred on September 17, 1862. The area, situated on fields among the Appalachian foothills near the Potomac River, features the battlefield site and visitor center, a national military cemetery and a field hospital museum. Today, over 330,000 people visit the park each year.<br><br>Established as Antietam National Battlefield Site August 30, 1890, the park was transferred from the War Department August 10, 1933, and redesignated November 10, 1978. Along with all historic areas administered by the National Park Service, the battlefield was listed on the National Register of Historic Places on October 15, 1966. Additional documentation on the site was recorded by the National Park Service on February 27, 2009. (Source Wikipedia (http://en.wikipedia.org/wiki/Antietam_National_Battlefield))<br><br>http://www.nps.gov/anti]]></description>
+			<styleUrl>#icon-123</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/m5sA9n4BIMQ99dlg2kMR6xecK1MHyTDRn89t0aQ5zE4ZHH0n64my2iO57QMXqV91HwLi6KgiuqmuZkEhyupsPKPsRluuE3W4Etd-oO8QR0lTLNrfot5NiBV3pRBoiRb3dGcNraN45hkesFPZmeE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.74511699999999,39.474133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biscayne National Park (FL)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/zj_wpFop8jSlDdHk4djBYcA1BKLQPnKNmA1BvkiAif3708oTEiX8i6djm-27V-TXKVbRe-WvooYIFzginozHYSjr0IVKyciGFSGf7JBPwALDhq7121qkebBh1nPrm2pDHAi1rqrCYmtcfA" height="200" width="auto" /><br><br>Biscayne National Park is a U.S. National Park located in southern Florida, due east of Homestead. The park preserves Biscayne Bay, one of the top scuba diving areas in the United States. Ninety-five percent of the park is water. In addition, the shore of the bay is the location of an extensive mangrove forest. The park covers 207 mi² (700 km²).<br><br>Elliott Key, the park's largest island, is considered the first of the true Florida Keys being formed from fossilized coral reef, i.e. Key Largo limestone. The islands farther north in the park are transitional islands of coral and sand.<br><br>The major attraction of the park is scuba diving or snorkeling on the coral reef inside the bay. It is also possible to take a glass-bottom boat tour of the bay, or rent kayaks to explore the bay and the islands (Florida Keys) in it. While accessing the historic homes of Stiltsville is currently not allowed by casual visitors, these structures may still be observed from boats. (Source Wikipedia (http://en.wikipedia.org/wiki/Biscayne_National_Park))<br><br>http://www.nps.gov/bisc]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/zj_wpFop8jSlDdHk4djBYcA1BKLQPnKNmA1BvkiAif3708oTEiX8i6djm-27V-TXKVbRe-WvooYIFzginozHYSjr0IVKyciGFSGf7JBPwALDhq7121qkebBh1nPrm2pDHAi1rqrCYmtcfA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.233261,25.498621,0</coordinates>
+			</Point>
+		</Placemark>
+		
+</kml>

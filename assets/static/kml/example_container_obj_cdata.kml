@@ -12,16 +12,16 @@
 		</IconStyle>
 	</Style>
 	
-	<name>example1 container test</name>
+	<name>Example.Document</name>
 	<Placemark>
-		<name>example1.ParentContainer</name>
+		<name>Example.Placemark.InDocument</name>
 		<Point>
 			<coordinates>164.76192,-36.84845</coordinates>
 		</Point>
 	</Placemark>
 	
     <Folder>
-        <name>example Poles</name>
+        <name>Example.Folder.Poles</name>
         <description>A container holds multiple objects - pole placemarks</description>
 
         <Placemark>
@@ -81,7 +81,7 @@
     </Folder>
 
     <Folder>
-        <name>example City</name>
+        <name>Example.Folder.City</name>
         <description>A container holds multiple objects - specific placemarks</description>
 
         <Placemark>

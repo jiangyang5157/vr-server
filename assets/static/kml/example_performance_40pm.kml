@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+		<Placemark>
+			<name>Yosemite National Park</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-119.54084,37.83935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abraham Lincoln Birthplace National Historical Park (KY)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/cC9Dsn0nKePVabuhrQaf4Ummq_sIRoCz-ihhu-2fUz3P3l9bn2E7H_LOYNyJe1O7Ck1DF2XBXFoqNof1hUsk9DFuJnJ1AACr3kTQKJBIJSmshg8i8WwvRiwXeyQ27FrrVF_1QRteaKVUDA" height="200" width="auto" /><br><br>AbrahamLincoln Birthplace National Historical Park preserves two farm sites whereAbraham Lincoln lived as a child.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Theoriginal Memorial was constructed by the Lincoln Farm Association. In 1916,they donated the Memorial to the Federal government, which established theAbraham Lincoln National Park on July 17, 1916. The War Department administeredthe site until August 10, 1933, when it was transferred to the National ParkService. It was designated as the Abraham Lincoln National Historical Park onAugust 11, 1939. It was renamed and redesignated Abraham Lincoln BirthplaceNational Historic Site on September 8, 1959. The historic site's definition wasexpanded to include the Knob Creek site on November 6, 1998. On March 30, 2009,the site was redesignated a National Historical Park. (Source Wikipedia (http://en.wikipedia.org/wiki/Abraham_Lincoln_Birthplace_National_Historical_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/abli]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/cC9Dsn0nKePVabuhrQaf4Ummq_sIRoCz-ihhu-2fUz3P3l9bn2E7H_LOYNyJe1O7Ck1DF2XBXFoqNof1hUsk9DFuJnJ1AACr3kTQKJBIJSmshg8i8WwvRiwXeyQ27FrrVF_1QRteaKVUDA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.737488,37.53117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Acadia National Park (ME)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/iEc6cfBiJlOn711nn_NBXmcMYa5bcnMNh2bFylkpjmVkT9WVnWtG-RxCou1Bk_-oVLC5Rm7NoL56k0qk3KbtkGYt9hgmZjPGrGlrjT4fTmY7e9ni7hN4i3WyrbSClw" height="200" width="auto" /><br><br>AcadiaNational Park preserves much of Mount Desert Island, and associated smallerislands, off the Atlantic coast of Maine. Originally inhabited by the Wabanakipeople, the area includes mountains, an ocean shoreline, woodlands, and lakes.In addition to Mount Desert Island, the park comprises much of the Isle auHaut, a small island to the southwest of Mount Desert Island and parts of BakerIsland, also nearby. A portion of Schoodic Peninsula on the mainland is alsopart of the park. In total, Acadia National Park consists of 30,300 acres (47square miles or 123 km2) on Mount Desert Island, 2,728 acres (4.6 square milesor 11 km2) on Isle au Haut and 2,366 acres (3.5 square miles or 9.2 km2) on theSchoodic Peninsula.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Thelandscape architect Charles Elliot is credited with the idea for the park. Itfirst attained federal status when President Woodrow Wilson, established it asSieur de Monts National Monument on July 8, 1916, administered by the NationalPark Service. On February 26, 1919, it became a national park, with the nameLafayette National Park in honor of the Marquis de Lafayette, an influentialFrench supporter of the American Revolution. The park's name was changed toAcadia National Park on January 19, 1929. From 1915 to 1933, the wealthy philanthropistJohn D. Rockefeller, Jr. financed, designed, and directed the construction of anetwork of carriage trails throughout the park. The network encompassed over 50miles (80 km) of gravel carriage trails, 17 granite bridges, and two gatelodges, almost all of which are still maintained and in use today. Cut granitestones placed along the edges of the carriage roads act as guard rails of sortand are locally known as "coping stones" to help visitors cope withthe steep edges. They are also fondly called "Rockefeller's teeth". (Source Wikipedia (http://en.wikipedia.org/wiki/Acadia_National_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/acad]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/iEc6cfBiJlOn711nn_NBXmcMYa5bcnMNh2bFylkpjmVkT9WVnWtG-RxCou1Bk_-oVLC5Rm7NoL56k0qk3KbtkGYt9hgmZjPGrGlrjT4fTmY7e9ni7hN4i3WyrbSClw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.216827,44.349953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adams National Historical Park (MA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/v9SBtHSQR-PO-AJWXj0qmJ1BL37UJDyzIAdVyKGbe4fljtLXfDZMHxZgcE5m4h7K6jR7nO5F5mV6e_CPzlZuMe6CkP_XN6_B-fK2tI8YA5ne5pb7iUypjOnA0XQNQ_-u" height="200" width="auto" /><br><br>Adams National Historical Park, formerly Adams National Historic Site, in Quincy, Massachusetts, preserves the home of Presidents of the United States John Adams and John Quincy Adams, of U.S. Ambassador to Great Britain, Charles Francis Adams, and of the writers and historians Henry Adams and Brooks Adams.<br><br>The national historical park's eleven buildings tell the story of five generations of the Adams family (from 1720 to 1927) including Presidents, First Ladies, U.S. Ministers, historians, writers, and family members who supported and contributed to their success. In addition to "Peacefield," home to four generations of the Adams family, the park's main historic features include: John Adams birthplace (October 30, 1735), the nearby John Quincy Adams birthplace (July 11, 1767); the Stone Library (built in 1870 to house the books of John Quincy Adams and believed to be the first presidential library) containing more than 14,000 historic volumes.<br><br>There is an off-site visitor center less than a mile (1.6 km) away. Regularly scheduled tours of the houses are offered in season (April 19 to November 10), by guided tour only, using a tourist trolley provided by the Park Service between sites. Access to United First Parish Church is provided by the congregation for which they ask a small donation. The church is across the street from the visitor center (Source Wikipedia (http://en.wikipedia.org/wiki/Adams_National_Historical_Park))<br><br>http://www.nps.gov/adam]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/v9SBtHSQR-PO-AJWXj0qmJ1BL37UJDyzIAdVyKGbe4fljtLXfDZMHxZgcE5m4h7K6jR7nO5F5mV6e_CPzlZuMe6CkP_XN6_B-fK2tI8YA5ne5pb7iUypjOnA0XQNQ_-u</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.01120000000002,42.256401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agate Fossil Beds National Monument (NE)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/_g2pw2lClQ_7Nv445Gjq-qO0afPYWyC-Jnb8ObBdzpj7uSTHHA_Js4Setk0u-CN2fXIDcVLY_6mRGzt-7UgtQWesJFucpaCoGgwU2xlZ_EPepF-iMBL9qGd6aQZMoSrjOOUj6l75PySUbLM9qdHBY-M" height="200" width="auto" /><br><br>Agate Fossil Beds National Monument is a U.S. National Monument near Harrison, Nebraska. The main feature of the Monument is a valley of the Niobrara River, and the fossils found on Carnegie Hill and University Hill. The area largely consists of grass-covered plains. Plants on the site include prairie sandreed, blue grama, little bluestem and needle and thread grass, and the wildflowers lupin, spiderwort, western wallflower and sunflowers. The site is best known for the large number of well-preserved Miocene fossils, many of which were found at dig sites on Carnegie and University Hills. Fossils from the site, which date from about 20 million years ago, are among some of the best specimens of Miocene mammals. <br><br>Originally the Agate Springs Ranch, a working cattle ranch, was owned by Capt. James Cook. The monument's museum collection also contains more than 500 artifacts from the Cook Collection of Plains Indian artifacts. The national monument was authorized on June 5, 1965, but was not established until June 14, 1997. (Source Wikipedia (http://en.wikipedia.org/wiki/Agate_Fossil_Beds))<br><br>http://www.nps.gov/agfo]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/_g2pw2lClQ_7Nv445Gjq-qO0afPYWyC-Jnb8ObBdzpj7uSTHHA_Js4Setk0u-CN2fXIDcVLY_6mRGzt-7UgtQWesJFucpaCoGgwU2xlZ_EPepF-iMBL9qGd6aQZMoSrjOOUj6l75PySUbLM9qdHBY-M</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.733353,42.42577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>African Burial Ground National Monument (NY)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VZ3tIaps27T0DC_Hpu4mDbF_Zl7r9IMFpTog3q--2xlS0UHXnQLKe9q1lp6bktCRRowGYOyL7FUSw49keNj7-Cr4z0ocD0C8B2e5u_e1gDuuINYL8Y9LYkj59M3wBI8s3_F2EGbtdIAGKps" height="200" width="auto" /><br><br>African Burial Ground National Monument at Duane Street and African Burial Ground Way (Elk Street) in Lower Manhattan (New York City) preserves a site containing the remains of more than 400 African Americans buried during the 17th and 18th centuries. Historians estimate there may have been 15,000-20,000 burials there. The site's excavation and study was called the most important historic urban archeological project in the United States. The site has been designated a National Historic Landmark and National Monument.<br><br>On February 27, 2006, President George W. Bush signed a proclamation designating the federal land as the 123rd National Monument. It was the 390th unit of the National Park System. This is considered the "most important historic urban archaeological project undertaken in the United States." After the Howard University studies, the remains were reinterred at the site in a respectful ceremony.<br><br>As part of the dedication ceremonies, Elk Street was officially renamed African Burial Ground Way. (Source Wikipedia (http://en.wikipedia.org/wiki/African_Burial_Ground_National_Monument))<br><br>http://www.nps.gov/afbg]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/VZ3tIaps27T0DC_Hpu4mDbF_Zl7r9IMFpTog3q--2xlS0UHXnQLKe9q1lp6bktCRRowGYOyL7FUSw49keNj7-Cr4z0ocD0C8B2e5u_e1gDuuINYL8Y9LYkj59M3wBI8s3_F2EGbtdIAGKps</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.005501,40.715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ala Kahakai National Historic Trail (HI)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/wJ_4mNjw1vJFgk0vmvvnR3TEc1ruOdSGA8EzR0VNXg7f2huWE4Jc0uvn6gcvihLbOpJ6xyTt599ZDO4isnyAGcG_DLI19TCjBtiVTeJHaohmVp5xTW0TIDJ0OP6vCC-XNA" height="200" width="auto" /><br><br>Established in 2000 for the preservation, protection and interpretation of traditional Native Hawaiian culture and natural resources, the Ala Kahakai NHT is a 175-mile trail corridor full of cultural and historical significance. It traverses through hundreds of ancient Hawaiian settlement sites and through over 200 ahupua'a, or traditional sea to mountain land divisions. Cultural resources along the trail include several important heiau (temples), royal centers, kahua (house site foundations), loko 'ia (fishponds) ko`a (fishing shrines), ki‘i pohaku (petroglyphs), holua (stone slide), and wahi pana (sacred places). Natural Resources include anchialine ponds, pali (precipices), nearshore reefs, estuarine ecosystems, coastal vegetation, migratory birds, native sea turtle habitat, and several threatened and endangered endemic species of plants and animals.<br><br>http://www.nps.gov/alka]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/wJ_4mNjw1vJFgk0vmvvnR3TEc1ruOdSGA8EzR0VNXg7f2huWE4Jc0uvn6gcvihLbOpJ6xyTt599ZDO4isnyAGcG_DLI19TCjBtiVTeJHaohmVp5xTW0TIDJ0OP6vCC-XNA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.0298,19.67791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alagnak Wild River (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/e6_wwXieyatzja1JR_-4QD5zexU5Bo4v9Eogqj4qkNukwxzXyqr8N__Y0BMGPE5tHGs3Q2-VXWIteOTDIb189XQiEOlrvnhhlIAFgSaRrRRA1LFWeItfPuoYcltLGBgbG4HxNJBxNqk" height="200" width="auto" /><br><br>The Alagnak River is a 79 mile (127 km) long river in Alaska. It has a catchment area of approximately 1400 square mi (3600 km²). It is located in central Lake and Peninsula Borough. In Yupik, the word "Alagnak" means "to err." Every year, the river changes its course and branches anew, for which reason it is sometimes called the "Branch River."<br><br>Due to the large numbers of salmon, there is a significant bear population in the summer and fall, including both grizzly and black bears. The majority of the catchment area is a winter habitat for Alaskan caribou. Moose are also to be found during the entire year. Along the river, beaver, foxes, wolverines, mink, and otter are all found as well occasional wolf. In the water, there are several varieties of salmon, including sockeye salmon, pink salmon, chum salmon, king salmon, and silver salmon. There are also rainbow trout, char, arctic grayling, and northern pike. Along the river there is also eclectic vegetation including spruces, willows and various types of berries.<br><br>The upper 67 mi (108 km) of the river is designated as a protected "wild and scenic river" in accordance with ANILCA, the Alaska National Interest Land Conservation Act. This part of the river is known as the Alagnak Wild River. (Source Wikipedia (http://en.wikipedia.org/wiki/Alagnak_Wild_River))<br><br>http://www.nps.gov/alag]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/e6_wwXieyatzja1JR_-4QD5zexU5Bo4v9Eogqj4qkNukwxzXyqr8N__Y0BMGPE5tHGs3Q2-VXWIteOTDIb189XQiEOlrvnhhlIAFgSaRrRRA1LFWeItfPuoYcltLGBgbG4HxNJBxNqk</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.796051,59.010632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alaska Public Lands Information Center (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ajNGu1jBE-yhfOeGVpGvfrjXXesUDz5v9L1ydJPrAGl0xDxDBlmNqg2GYVn7uV3wzY3MMJCAHgegMkyzwmamXpNjdFlis1eomyix9OZVD1_qBCk-6UvQ2A01oOVnTAwa8mQELBc6gDtfl3BR-Oo" height="200" width="auto" /><br><br>Alaska’s parks, forest and refuges are rich and varied. The Alaska Centers, interagency visitor centers located in Tok, Fairbanks, Anchorage, and Ketchikan, allow visitors to stop by or write to just one spot for all the information needed to plan an Alaskan adventure. The centers also educate adults and children about the cultural and natural resources on Alaska's public lands.<br><br>http://www.nps.gov/anch]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/ajNGu1jBE-yhfOeGVpGvfrjXXesUDz5v9L1ydJPrAGl0xDxDBlmNqg2GYVn7uV3wzY3MMJCAHgegMkyzwmamXpNjdFlis1eomyix9OZVD1_qBCk-6UvQ2A01oOVnTAwa8mQELBc6gDtfl3BR-Oo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.893845,61.21861999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alcatraz Island (CA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/T54oz5-CruH1TOC95NHesIiHQ45SaCrVah0BOGsplgyoJHUV52gLkjhGUlwUxRaHCFYBkGjY5rYPZ1bkgpNJP_-Fg4xpboFSgF00-Dd7fmBpXMrZ5B-scMWHSP_PjldlcjkxHe1gI9yqfkcTamc" height="200" width="auto" /><br><br>Alcatraz Island is an island located in the San Francisco Bay, 1.5 miles (2.4 km) offshore from San Francisco, California. Often referred to as The Rock, the small island early-on served as a lighthouse, a military fortification, a military prison, and a federal prison until 1963. Later, in 1972, Alcatraz became a national recreation area and received landmarking designations in 1976 and 1986.<br><br>Today, the island is a historic site operated by the National Park Service as part of the Golden Gate National Recreation Area and is open to tours. Visitors can reach the island by ferry ride from Pier 33, near Fisherman's Wharf in San Francisco. Alcatraz has been featured in many movies, TV shows, cartoons, books, comics, and games. (Source Wikipedia (http://en.wikipedia.org/wiki/Alcatraz_Island))<br><br>http://www.nps.gov/alca]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/T54oz5-CruH1TOC95NHesIiHQ45SaCrVah0BOGsplgyoJHUV52gLkjhGUlwUxRaHCFYBkGjY5rYPZ1bkgpNJP_-Fg4xpboFSgF00-Dd7fmBpXMrZ5B-scMWHSP_PjldlcjkxHe1gI9yqfkcTamc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.423317,37.827007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aleutian World War II National Historic Area (AK)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VG3MUjz_K8y-GkJpeJlbacBASM6St0LC-1u41s76luJKaCTDiGR61bnYWuTJGTyKecszZzGh6YoDOW4gpQySU69RDYy68ZuPFNeqI8Q6GPu2zlYBn1exXR39sJozJDDQDn-6kUTWdik" height="200" width="auto" /><br><br>The Aleutian World War II National Historic Area is a U.S. National Historic Site on Amaknak Island in the Aleutian Island Chain of Alaska. It offers visitors a glimpse of both natural and cultural history, and traces the historic footprints of the U.S. Army Base, Fort Schwatka, located at the Ulakta Head on Mount Ballyhoo. The fort, 800 miles west of Anchorage, the nearest large urban center, was one of four coastal defense posts built to protect Dutch Harbor (crucial back door to the United States) during World War II; Fort Schwatka is also the highest coastal battery ever constructed in the United States. Engineers designed the concrete observation posts and command stations to withstand earthquakes and 100 mph winds. Although today, many of the bunkers and wooden structures of Fort Schwatka have collapsed, the gun mounts and lookouts are among the most intact in the country.<br><br>In 1996, the United State Congress designated this a National Historic Area as a way of educating future generations both about the history of the Aleut people, and the role the Aleutian Islands played in the defense of the United States in World War II. (Source Wikipedia (http://en.wikipedia.org/wiki/Aleutian_World_War_II_National_Historic_Area))<br><br>http://www.nps.gov/aleu]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/VG3MUjz_K8y-GkJpeJlbacBASM6St0LC-1u41s76luJKaCTDiGR61bnYWuTJGTyKecszZzGh6YoDOW4gpQySU69RDYy68ZuPFNeqI8Q6GPu2zlYBn1exXR39sJozJDDQDn-6kUTWdik</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.528748,53.88822900000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alibates Flint Quarries National Monument (NE)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/r8CkKfvg47TfX-93-OxwhSjqY-qAeYp7uZ86NkI045McsdSc3fYHbv2Xrc7aADy8Hu9566BLi0sahhHXP3W2BjYL4T149Du-eQnJXVNn_AovXYaMnHg5fhK8A1D4P0mi-qFHpHRcVcFhOBXe" height="200" width="auto" /><br><br>Alibates Flint Quarries National Monument is a United States National Monument in the State of Texas. For thousands of years, people came to the red bluffs above the Canadian River for flint, vital to their existence. Demand for the high quality, rainbow-hued flint is reflected in the distribution of Alibates Flint through the Great Plains and beyond. Today this area is protected by the U.S. National Park Service and can only be viewed by ranger-led guided tours, which must be made in advance.<br><br>Alibates Flint Quarries is the only National Monument in the state of Texas, and is an integral part of Lake Meredith National Recreation Area.<br><br>The monument was authorized as Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument on August 21, 1965, but the designation was shortened to the current name on November 10, 1978. (Source Wikipedia (http://en.wikipedia.org/wiki/Alibates_Flint_Quarries_National_Monument))<br><br>http://www.nps.gov/alfl]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/r8CkKfvg47TfX-93-OxwhSjqY-qAeYp7uZ86NkI045McsdSc3fYHbv2Xrc7aADy8Hu9566BLi0sahhHXP3W2BjYL4T149Du-eQnJXVNn_AovXYaMnHg5fhK8A1D4P0mi-qFHpHRcVcFhOBXe</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.676643,35.586716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allegheny Portage Railroad (PA)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/BlFGqjYsJDIt9GsziQRc0p9RMjHHAPQrdNsDnheuqSqmmbSYzIV06q4gZZm7oJE0ZCS32KaoPFc7p9fY8RcWMCEArf0DcisUdAGtWqE1DX8-lV8hNPbfXH81Bj_7AE0" height="200" width="auto" /><br><br>The Allegheny Portage Railroad was the first railroad constructed through the Allegheny Mountains in central Pennsylvania, United States. It was a series of 10 inclines, approximately 36 miles (58 km) long, and operated from 1834 to 1854. It connected two canal divisions of the Main Line of Public Works of the Pennsylvania Canal from Johnstown on the west to Hollidaysburg on the east, thus allowing continuous barge traffic between the Ohio and the Susquehanna rivers. Considered a technological marvel in its day, it played a critical role in opening the interior of the United States beyond the Appalachian Mountains to settlement and commerce. It included the first railroad tunnel in the United States, the Staple Bend Tunnel, and its inauguration was marked with great fanfare.<br><br>Today, the remains of the railroad are preserved within the Allegheny Portage Railroad National Historic Site operated by the National Park Service. The site was established on 1,296 acres (524 ha) in 1964 and is about 12 miles (19.3 km) west of Altoona,[citation needed] in Blair and Cambria counties. (Source Wikipedia (http://en.wikipedia.org/wiki/Allegheny_Portage_Railroad))<br><br>http://www.nps.gov/alpo/index.htm]]></description>
+			<styleUrl>#icon-101</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/BlFGqjYsJDIt9GsziQRc0p9RMjHHAPQrdNsDnheuqSqmmbSYzIV06q4gZZm7oJE0ZCS32KaoPFc7p9fY8RcWMCEArf0DcisUdAGtWqE1DX8-lV8hNPbfXH81Bj_7AE0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.54027600000001,40.454166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amistad National Recreation Area (TX)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/jKNyn8jL4JASBtFqn5CsFoqYmPmGpwxuJbjDOL3yGDgxkLLwC9dU55_gwDSAnmfHYgmxJnBfQSW4rh5o022Q86EjEpcOAOBUh2w01cygXYXLnNHBRDzo752erILE" height="200" width="auto" /><br><br>Amistad National Recreation Area includes the area around the Amistad Reservoir at the confluence of the Rio Grande River, the Devils River, and the Pecos River. "Amistad" is Spanish for "friendship", as the Amistad Reservoir is located on the border with Mexico. The reservoir was created by Amistad Dam in 1969.<br><br>The lake provides year-round, water-based recreation opportunities, including boating, fishing, swimming, scuba diving and water-skiing, as well as other recreational opportunities for picnicking, camping and hunting. The area is rich in archeology and rock art, and contains a wide variety of plant and animal life. For highly experienced scuba divers, there is a system of deep underwater caves that can be accessed. The dive includes exotic gas mixes, pre-placement of gas cylinders, and extensive decompression times at depth. These caves are considered extremely hazardous and should not be attempted by anyone without extensive training and preparation.<br><br>The site was administered under a cooperative agreement with the International Boundary and Water Commission as Amistad Recreation Area, November 11, 1965. It was authorized as a National Recreation Area on November 28, 1990. (Source Wikipedia (http://en.wikipedia.org/wiki/Amistad_National_Recreation_Area))<br><br>http://www.nps.gov/amis]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/jKNyn8jL4JASBtFqn5CsFoqYmPmGpwxuJbjDOL3yGDgxkLLwC9dU55_gwDSAnmfHYgmxJnBfQSW4rh5o022Q86EjEpcOAOBUh2w01cygXYXLnNHBRDzo752erILE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.055939,29.449911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anacostia Park (MD)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/0n_9A0byTLFNrANJraE74TJ2af88dDxbUo3H1WZsheYQxZBbdqsQo4unDP8VeJdqzNeqAvmvi80n-EdUS71jpqrxVLTvJWSvtIa6OhpKaLrjv1hL0RIx0sNtjCuA8Fava_M" height="200" width="auto" /><br><br>AnacostiaPark is operated by the United States National Park Service. It is one ofWashington, D.C.'s largest and most important recreation areas, with over 1200acres (4.9 km²) at multiple sites. Included in Anacostia Park is KenilworthPark and Aquatic Gardens and Kenilworth Marsh. Hundreds of acres are availablefor ballfields, picnicking, basketball, tennis, and the Anacostia Park Pavilionhas some 3300 square feet (307 m²) of space for roller skating and specialevents. The Langston Golf Course offers an 18 hole course as well as a drivingrange, and three concession-operated marinas, four boat clubs, and a publicboat ramp provide for access to the tidal Anacostia River for recreationalboating.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"Eagles'Nest", the headquarters of the United States Park Police helicopteraviation unit is located in Anacostia Park. Additionally, the headquarters ofNational Capital Parks-East is located within the park. (Source Wikipedia (http://en.wikipedia.org/wiki/Anacostia_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> <br>http://www.nps.gov/anac]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/0n_9A0byTLFNrANJraE74TJ2af88dDxbUo3H1WZsheYQxZBbdqsQo4unDP8VeJdqzNeqAvmvi80n-EdUS71jpqrxVLTvJWSvtIa6OhpKaLrjv1hL0RIx0sNtjCuA8Fava_M</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.97051999999999,38.877872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andersonville National Historic Site (GA)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mG3MqMtBPAzlwr8G25bVAytYVGOWZF0opU8A-NmSXaII6i2DAQSn_D9BeujAUtKd41QVm7hV7TZkomCcevcHUr0Dya9Pka5QpxdOyukCjt_e6KOJNP8rFYLOy3NOFsHXHW-5g78pJkp4" height="200" width="auto" /><br><br>TheAndersonville prison, officially known as Camp Sumter, was the largestConfederate military prison during the American Civil War. The site of the prisonis now Andersonville National Historic Site in Andersonville, Georgia. Most ofthe site actually lies in extreme southwestern Macon County, adjacent to theeast side of Andersonville. It includes the site of the Civil War prison, theAndersonville National Cemetery, and the National Prisoner of War Museum. Inall, 12,913 of the approximately 45,000 Union prisoners died there because ofstarvation, malnutrition, diarrhea, and disease. (Source Wikipedia (http://en.wikipedia.org/wiki/Andersonville_National_Historic_Site))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/ande]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/mG3MqMtBPAzlwr8G25bVAytYVGOWZF0opU8A-NmSXaII6i2DAQSn_D9BeujAUtKd41QVm7hV7TZkomCcevcHUr0Dya9Pka5QpxdOyukCjt_e6KOJNP8rFYLOy3NOFsHXHW-5g78pJkp4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.12707500000001,32.197422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andrew Johnson National Historic Site (TN)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/j8wVTf6wojYnjv9j6t23Q8FqN5wZrPGLeICAPFotl7COb66Jz08CCKr9zYbwKfxAWNCpqxXtU1kkJLpepDhKi1LuJidUJPk5MC1vG-eX9_JFW0oj_5us8XToF79RkafqS55IXOnK49L5N3vERw" height="200" width="auto" /><br><br>AndrewJohnson National Historic Site is a National Historic Site in Greeneville,Tennessee, maintained by the National Park Service. It was established to honorAndrew Johnson, 17th President of the United States, who became president afterAbraham Lincoln's death. The site includes two of Johnson's homes, his tailorshop, and his grave site within the Andrew Johnson National Cemetery.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Thecemetery also includes the interments of Johnson's wife, Eliza McCardleJohnson, and son Brigadier General Robert Johnson. David T. Patterson, a UnitedStates Senator from Tennessee, and his son Andrew J. Patterson, who wasinstrumental in securing historic designation for the Greeneville propertiesassociated with Andrew Johnson, were among others buried in the cemetery. Thesite was designated a U.S. National Monument in 1935 and redesignated aNational Historic Site on December 11, 1963. (Source Wikipedia (http://en.wikipedia.org/wiki/Andrew_Johnson_National_Historic_Site))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/anjo]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/j8wVTf6wojYnjv9j6t23Q8FqN5wZrPGLeICAPFotl7COb66Jz08CCKr9zYbwKfxAWNCpqxXtU1kkJLpepDhKi1LuJidUJPk5MC1vG-eX9_JFW0oj_5us8XToF79RkafqS55IXOnK49L5N3vERw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-82.82943,36.162464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aniakchak National Monument and Preserve (AK)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/6Q_2XPgljZnVxoO9EkuCO9kPHm2djbN-1oGXtZFYy8WgFXx_x3o31z6MnOugWuVaP70wBwcL5zdEz_2VIeeCppsmMwNJJQUjvfe4lYoHyfxJMwsZWnvc5fyrCrsmZE_Kjy0tECafiJZG2khHIKNqBwg" height="200" width="auto" /><br><br>Aniakchak National Monument and Preserve is a U.S. NationalMonument and National Preserve, consisting of the region around the Aniakchakvolcano on the Aleutian Range of south-western Alaska.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The area was proclaimed a national monument on December 1,1978, and established as a national monument and preserve on December 2, 1980.The national monument is 137,176 federal acres (555 km²) and the preserve is465,603 acres (1,884 km²) of which 439,863 are federal. The area is maintainedby the National Park Service. With only 285 documented recreational visits in2004, this remote place is perhaps the least visited unit of the National ParkSystem. Most visitors fly into the area, but the frequent fog and other adverseweather conditions make landing difficult.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Aniakchak region is part of the Pacific Ring of Fire,and the national monument consists of the caldera around Mount Aniakchak, withnotable examples of several volcanic features - such as lava flows and cindercones. Surprise Lake, located within the caldera, is the source of theAniakchak River, a National Wild and Scenic River. The Aniakchak Bay HistoricLandscape District surrounds the Aniakchak River from Aniakchak Crater toAniakchak Bay and was listed on the National Register of Historic Places onFebruary 14, 1997. (Source Wikipedia (http://en.wikipedia.org/wiki/Aniakchak_National_Monument_and_Preserve))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/ania]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/6Q_2XPgljZnVxoO9EkuCO9kPHm2djbN-1oGXtZFYy8WgFXx_x3o31z6MnOugWuVaP70wBwcL5zdEz_2VIeeCppsmMwNJJQUjvfe4lYoHyfxJMwsZWnvc5fyrCrsmZE_Kjy0tECafiJZG2khHIKNqBwg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.141327,56.880688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antietam National Battlefield (MD)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/m5sA9n4BIMQ99dlg2kMR6xecK1MHyTDRn89t0aQ5zE4ZHH0n64my2iO57QMXqV91HwLi6KgiuqmuZkEhyupsPKPsRluuE3W4Etd-oO8QR0lTLNrfot5NiBV3pRBoiRb3dGcNraN45hkesFPZmeE" height="200" width="auto" /><br><br>Antietam National Battlefield is a National Park Service protected area along Antietam Creek in Sharpsburg, Maryland which commemorates the American Civil War Battle of Antietam that occurred on September 17, 1862. The area, situated on fields among the Appalachian foothills near the Potomac River, features the battlefield site and visitor center, a national military cemetery and a field hospital museum. Today, over 330,000 people visit the park each year.<br><br>Established as Antietam National Battlefield Site August 30, 1890, the park was transferred from the War Department August 10, 1933, and redesignated November 10, 1978. Along with all historic areas administered by the National Park Service, the battlefield was listed on the National Register of Historic Places on October 15, 1966. Additional documentation on the site was recorded by the National Park Service on February 27, 2009. (Source Wikipedia (http://en.wikipedia.org/wiki/Antietam_National_Battlefield))<br><br>http://www.nps.gov/anti]]></description>
+			<styleUrl>#icon-123</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/m5sA9n4BIMQ99dlg2kMR6xecK1MHyTDRn89t0aQ5zE4ZHH0n64my2iO57QMXqV91HwLi6KgiuqmuZkEhyupsPKPsRluuE3W4Etd-oO8QR0lTLNrfot5NiBV3pRBoiRb3dGcNraN45hkesFPZmeE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.74511699999999,39.474133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Appalachian National Scenic Trail (GA)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/nCivHkM01Hbs1TPXLLxCGJtLR_4ZhbpFfv667ARZZHI2wOjBrzOm6ChPS0kAw5DBN-pbfS3-zWA1uPMglhE_Fk8CattkmoGHHrxzpdbrnOdKUs5k9U_fEHB8MStozsc5Tw0wiBCxkoETnbjph_8aDjEo_ZIJFWWqqQ" height="200" width="auto" /><br><br>The Appalachian National Scenic Trail, generally known asthe Appalachian Trail or simply The A.T., is a marked hiking trail in theeastern United States, extending between Springer Mountain in Georgia and MountKatahdin in Maine. It is approximately 2,178 miles (3,505 km) long. The path ismaintained by thirty trail clubs and multiple partnerships. The majority of thetrail is in wilderness, although some portions do traverse towns and roads, andcross rivers.<br><br><br><br><br><br><br>The Appalachian Trail is famous for its many hikers, some ofwhom, called thru-hikers, attempt to hike it in its entirety in a singleseason. Earl Shaffer was the first to do so. Many books, memoirs, web sites andfan organizations are dedicated to this pursuit.<br><br><br><br><br><br><br>Along the way, the trail passes through the states ofGeorgia, North Carolina, Tennessee, Virginia, West Virginia, Maryland,Pennsylvania, New Jersey, New York, Connecticut, Massachusetts, Vermont, NewHampshire, and Maine. An extension, the International Appalachian Trail, continuesnorth into Canada and to the end of the range, where it enters the NorthAtlantic Ocean.<br><br><br><br><br><br><br>The Appalachian Trail, the Continental Divide Trail and thePacific Crest Trail form the Triple Crown of long-distance hiking in the UnitedStates. (Source Wikipedia (http://en.wikipedia.org/wiki/Appalachian_National_Scenic_Trail))<br><br><br><br><br><br><br>http://www.nps.gov/appa]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/nCivHkM01Hbs1TPXLLxCGJtLR_4ZhbpFfv667ARZZHI2wOjBrzOm6ChPS0kAw5DBN-pbfS3-zWA1uPMglhE_Fk8CattkmoGHHrxzpdbrnOdKUs5k9U_fEHB8MStozsc5Tw0wiBCxkoETnbjph_8aDjEo_ZIJFWWqqQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.214111,34.608948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apostle Islands National Lakeshore (WI)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/DbdsSMFPRat5CZEUP_npGarD3U6b3MN7nhIBg4fcEeUajkXqoIKO-zhhO9-0cz7fwfVEs6USM2LfgmoGp8IscxkG8HuE4mTr_oR9P-AmuL2wSv8ykkKo6N0apjUE7pgamW25blO8XnFx" height="200" width="auto" /><br><br>The Apostle Islands National Lakeshore is a U.S. national lakeshore consisting of 21 islands (Apostle Islands) and shoreline encompassing 69,372 acres (281 km²) on the northern tip of Wisconsin on the shore of Lake Superior. It is known for its collection of historic lighthouses, sandstone sea caves, a few old growth remnant forests, and natural animal habitats.<br><br>The Apostle Islands are a result of the glaciers that once covered North America. “Geologically they are originally part of the main land at the edge of the great riff or fault which formed the depression to which the waters of Lake Superior collected.” When the glaciers melted, waves from the waters of Lake Superior caused erosion that formed the islands. The islands are composed of mostly red sandstone because of the glacial shift.<br><br>It is widely assumed that Indians were the first to inhabit the island. “There is some evidence that they were seen and possibly visited sometime in the fourteenth century by Indians who were making their way to Isle Royale near the north shore of the land in search of copper.” Not long after, the islands were visited by Étienne Brûlé, a French explorer who, like many French Canadians, was trying to discover a new way to the East Indies. "The French are believed to have named the islands 'Apostle' meaning 12, because they believed in the practice of giving names of religious significance to geographic locations." It is said that fur traders were the first explorers to settle in the area, building a village from the money they brought in.<br><br>United States Senator Gaylord Nelson sponsored the federal legislation that established the Apostle Islands National Lakeshore. Public Law 91-424 was signed by the President on September 26, 1970. It included 20 islands, a 12-mile strip of the mainland, and approximately 1/4 mile of Lake Superior jurisdiction adjacent to each land unit. After the National Park Service completed a wilderness study in 2004, and received overwhelming support from the public, Congress designated 80% of the land area of the national lakeshore as the Gaylord Nelson Wilderness on December 8, 2004. (Source Wikipedia (http://en.wikipedia.org/wiki/Apostle_Islands_National_Lakeshore))<br><br>http://www.nps.gov/apis]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/DbdsSMFPRat5CZEUP_npGarD3U6b3MN7nhIBg4fcEeUajkXqoIKO-zhhO9-0cz7fwfVEs6USM2LfgmoGp8IscxkG8HuE4mTr_oR9P-AmuL2wSv8ykkKo6N0apjUE7pgamW25blO8XnFx</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.664177,46.96545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Appomattox Court House National Historical Park (VA)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/9a1bbYoyPDSIO-YJrfKyytczCWAg2PUWit5Y9BnBFcZ712jcNzEurrgWn5CuHtpxMKlNb0CZ9VkExb_YnrbHTEo0eDxuoT3GfcIrBbPkTkchSb8utn4Pamv72biB5tcx2Yu28G3ItRJCw7p4fko" height="200" width="auto" /><br><br>The Appomattox Court House National Historical Park is aNational Historical Park of original and reconstructed nineteenth century buildings.It was signed into law August 3, 1935. The village was made a national monumentin 1940 and a national historical park in 1954. It is located three miles (5km) east of Appomattox, Virginia, the location of the Appomattox Station andthe "new" Appomattox Court House. It is in the center of the stateabout 25 miles (40 km) east of Lynchburg, Virginia. The village is famous asthe site of the Battle of Appomattox Court House and containing the house ofWilmer McLean, where the surrender of the Confederate Army under Robert E. Leeto Union commander Ulysses S. Grant took place on April 9, 1865, effectively endingthe American Civil War.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The historical park was described in 1989 as having an areaof 1,325 acres (536 ha). (Source Wikipedia (http://en.wikipedia.org/wiki/Appomattox_Court_House_National_Historical_Park))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/apco]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/9a1bbYoyPDSIO-YJrfKyytczCWAg2PUWit5Y9BnBFcZ712jcNzEurrgWn5CuHtpxMKlNb0CZ9VkExb_YnrbHTEo0eDxuoT3GfcIrBbPkTkchSb8utn4Pamv72biB5tcx2Yu28G3ItRJCw7p4fko</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.866257,38.025005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arches National Park (UT)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/6uiyPkBbVUj_K0O2baplgTUlTtTb2LlKdXXe8DdMtrfI8qIOKa-MoZxpDizSG8NqVa3sXndIXA31PamcovMC3iZ1Uyp90xxV24iysZ_gawTHhKf9PWg7guXhFlPWT1hniV8" height="200" width="auto" /><br><br>Arches National Park is a U.S. National Park in eastern Utah. It is known for preserving over 2000 natural sandstone arches, including the world-famous Delicate Arch, in addition to a variety of unique geological resources and formations.<br><br>The park is located near Moab, Utah, and is 119 square miles (310 km2) in size. Its highest elevation is 5,653 feet (1,723 m) at Elephant Butte, and its lowest elevation is 4,085 feet (1,245 m) at the visitor center. Since 1970, forty-three arches have toppled because of erosion. The park receives 10 inches (250 mm) of rain a year on average.<br><br>The area, administered by the National Park Service, was originally designated as a national monument on April 12, 1929. It was redesignated a national park on November 12, 1971. (Source Wikipedia (http://en.wikipedia.org/wiki/Arches_National_Park))<br><br>http://www.nps.gov/arch]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/6uiyPkBbVUj_K0O2baplgTUlTtTb2LlKdXXe8DdMtrfI8qIOKa-MoZxpDizSG8NqVa3sXndIXA31PamcovMC3iZ1Uyp90xxV24iysZ_gawTHhKf9PWg7guXhFlPWT1hniV8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.580055,38.687641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arkansas Post National Memorial (AR)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/V49k4aSWaHa4yj-IyNeRB4hXfWUO-ksdfkxsp69dLoFbflhIsglInvwPbjamR5O2Ja7Zi9nk817rMvWUHQqirOs_W5nu9PJcd54srfReo8hXjI__7tWU3NYhx8GboJdMXi2SDoIVbwa4Njm3cD0JxFlx2VDa5A" height="200" width="auto" /><br><br>Arkansas Post National Memorial, located about 8 miles (13km) southeast of Gillett, Arkansas, commemorates key events related toEuropean-American history that occurred on site and in the vicinity: thetrading post was the first successful French (and European) settlement in theLower Mississippi River Valley (1686); site of an American Revolutionary Warskirmish (1783); the first territorial capital of Arkansas (1819–1821); andsite of the American Civil War Battle of Fort Hindman (1863).<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The former site of Arkansas Post was made into a state parkin 1929. It is located on a peninsula in the Arkansas River in Arkansas County.On July 6, 1960 the site was designated a National Memorial, and a NationalHistoric Landmark on October 9, 1960.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>As with all National Historic Landmarks, Arkansas Post wasadministratively listed on the National Register of Historic Places on October15, 1966.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>It is located at 1741 Old Post Road, in Gillett, Arkansas. (Source Wikipedia (http://en.wikipedia.org/wiki/Arkansas_Post_National_Memorial))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/arpo]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/V49k4aSWaHa4yj-IyNeRB4hXfWUO-ksdfkxsp69dLoFbflhIsglInvwPbjamR5O2Ja7Zi9nk817rMvWUHQqirOs_W5nu9PJcd54srfReo8hXjI__7tWU3NYhx8GboJdMXi2SDoIVbwa4Njm3cD0JxFlx2VDa5A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.34569500000001,34.017185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arlington House, The Robert E. Lee Memorial (VA)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/dirKMXfPXpf40ER_o8M3Se3gtLbvDsNuryywdh7fMxXArFPam5lntxpuMczP7xZ0ZM7rVRyd5GeZ5b-tVIKq5fih_crN6Rg20urpSf0mVxaA8cDdIoTFFc1R-IHMbh2cM5h8" height="200" width="auto" /><br><br>Arlington House, The Robert E. Lee Memorial, also known asthe Custis-Lee Mansion, is a Greek revival style mansion located inArlington, Virginia, USA and was once the home of Confederate General Robert E.Lee. It overlooks the Potomac River, directly across from the National Mall inWashington, D.C. During the American Civil War, the grounds of the mansion wereselected as the site of Arlington National Cemetery, in part to ensure that Leewould never again be able to return to his home. However, the United States hassince designated the mansion as a National Memorial to its former opponent, amark of widespread respect for him in both the North and South.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The federal government had confiscated the mansion property,in 1864, claiming that property taxes had not been paid. Robert E. Lee and hiswife never legally challenged the return of the home. In 1870, after hisfather's death, George Washington Custis Lee, the eldest son of Robert E. Lee,filed a lawsuit in the Alexandria Circuit Court which resulted in a laterSupreme Court decision in 1882 awarding Custis Lee just compensation for thehouse and 1,100 acres (4 km2). Lee originally asked for $300,000, however, thecourt only awarded $150,000, considered the fair market value of the property.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Congress designated the mansion as a memorial to Lee in 1955, and it wasplaced on the National Register of Historic Places in 1966. (Source Wikipedia (http://en.wikipedia.org/wiki/Arlington_House,_The_Robert_E._Lee_Memorial))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/arho]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/dirKMXfPXpf40ER_o8M3Se3gtLbvDsNuryywdh7fMxXArFPam5lntxpuMczP7xZ0ZM7rVRyd5GeZ5b-tVIKq5fih_crN6Rg20urpSf0mVxaA8cDdIoTFFc1R-IHMbh2cM5h8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.073814,38.881477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Assateague Island National Seashore (MD)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-MgtXdMZ7BhDS8N9qqdcuKejjsqd8tW6xab1Fjm32ymQWWNgXbUBjtctgqpExf_xXInyfkEBd0Zoh2NoSs0I5XHz5vo0ghB1RBA193_hRVj1Avwns_SilabEz7u20Q" height="200" width="auto" /><br><br>Assateague Island National Seashore is a unit of theNational Park Service occupying much of Assateague Island along the Atlanticcoast of Maryland and Virginia. It is a barrier island shaped by stormy seasand gentle winds. It lies adjacent to Assateague State Park and ChincoteagueNational Wildlife Refuge. Over 2.1 million people visit the park each year.<br><br><br><br><br><br><br><br><br><br><br><br><br><br>In the 1950s, some 5,000 private lots comprising what is nowNational Park Service land were zoned and sold for resort development. The AshWednesday Storm of 1962 halted the plans for development. The Nor'easterdestroyed the few existing structures on the island and ripped roads apart. In1965, Assateague became a National Seashore.<br><br><br><br><br><br><br><br><br><br><br><br><br><br>Bands of feral horses freely roam among plants and nativeanimals that have adapted to a life of sand, salt and wind. Special thickenedleaves and odd shapes reveal the plant world's successful struggle here. Ghostcrabs buried in the cool beach sand and tree swallows plucking bayberries ontheir southward migration offer glimpses of the animal world's connection toAssateague. (Source Wikipedia (http://en.wikipedia.org/wiki/Assateague_Island_National_Seashore))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/asis]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/-MgtXdMZ7BhDS8N9qqdcuKejjsqd8tW6xab1Fjm32ymQWWNgXbUBjtctgqpExf_xXInyfkEBd0Zoh2NoSs0I5XHz5vo0ghB1RBA193_hRVj1Avwns_SilabEz7u20Q</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.216522,38.065392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Augusta Canal National Heritage Area (GA)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/TrfZMHqBMNaGqlTGJtaaFeqqF1bQHgN2t2fhhKC-TqiG65rpxUgNjObiqwI5_eKtc2muxEIfaRYfWPgTidjNnwthbJwtfl05WaSuLhG1C5AiUOGdQ99fB4fvrFmXqGMb_OZpFlU" height="200" width="auto" /><br><br>The Augusta Canal is a historic canal located in Augusta,Georgia. It was devised to harness the power of the fall line of the SavannahRiver for mills and to provide drinking water for the city. It is the onlycanal in the world still used for its original purpose of providing power totextile mills.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The canal is part of the Historic Augusta Canal andIndustrial District, which was named a National Historic Landmark in 1977. Itwas also named a National Heritage Area by Congress in 1998, the firstdesignated Nation Heritage Area in Georgia.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Augusta Canal is the main source of drinking water inAugusta and is a centerpiece of the city. It also has been a center ofredevelopment. Textile mills such as the Enterprise Mill have been converted toupscale offices and loft apartments and new projects, such as the Kroc Center,Harrisburg Canal Village, and Augusta Canal Park are proposed. (Source Wikipedia (http://en.wikipedia.org/wiki/Augusta_Canal#Augusta_Canal_National_Heritage_Area_Interpretive_Center))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/auca]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/TrfZMHqBMNaGqlTGJtaaFeqqF1bQHgN2t2fhhKC-TqiG65rpxUgNjObiqwI5_eKtc2muxEIfaRYfWPgTidjNnwthbJwtfl05WaSuLhG1C5AiUOGdQ99fB4fvrFmXqGMb_OZpFlU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.987793,33.480709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aztec Ruins National Monument (NM)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ZMWASc5-kK5cvEYLNu2hwRSQrS-yVQ1OSnuV_KFA6ZTSSi2SvnYtZWy-sT3aIJsSf3_kTItfMAQoi7afcsgCAUopBY-3_jRDjyeN2x3yHvdA57o8Hu6saZ6DZq2YfQRFYmHgPfvCoU9xUvGEcqpc" height="200" width="auto" /><br><br>The Aztec Ruins National Monument preserves ancestral Pueblo structures in north-western New Mexico, United States, located close to the town of Aztec and northeast of Farmington, near the Animas River. Salmon Ruins and Heritage Park, with more ancestral Pueblo structures, lies a short distance to the south, just west of Bloomfield near the San Juan River. The buildings date back to the 11th to 13th centuries, and the misnomer attributing them to the Aztec civilization can be traced back to early American settlers in the mid-19th century.<br><br>The site was declared "Aztec Ruin National Monument" on January 24, 1923, and with a boundary change it was renamed "Ruins" on July 2, 1928. Aztec Ruins was added to the UNESCO list of World Heritage Sites, as part of the Chaco Culture National Historical Park, on December 8, 1987. (Source Wikipedia (http://en.wikipedia.org/wiki/Aztec_Ruins_National_Monument))<br><br>http://www.nps.gov/azru]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/ZMWASc5-kK5cvEYLNu2hwRSQrS-yVQ1OSnuV_KFA6ZTSSi2SvnYtZWy-sT3aIJsSf3_kTItfMAQoi7afcsgCAUopBY-3_jRDjyeN2x3yHvdA57o8Hu6saZ6DZq2YfQRFYmHgPfvCoU9xUvGEcqpc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.999527,36.835339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badlands National Park (SD)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/xx8LN3yiFTzKmUc3ZR_eInoDlcVQTX5WwuFwV3Y2RNMxmsiNz6OCb5A3ltMrqpmwmgLbHaIYIzH1rkE5gIPs-sLmsF9xYdZBC4sRiu7QmlID6kJD6Uo9MuIkO0eR7yrm-ovEm36SkeoDc8zi4Lbun4z9BCJ1lQYwZc1bffJyrlQOmg" height="200" width="auto" /><br><br>Badlands National Park, in southwest South Dakota, United States preserves 244,000 acres (98,740 ha) of sharply eroded buttes, pinnacles, and spires blended with the largest protected mixed grass prairie in the United States.<br><br>Authorized as Badlands National Monument on March 4, 1929, it was not established until January 25, 1939. Under the Mission 66 plan, the Ben Reifel Visitor Center was constructed for the monument in 1957-58. It was redesignated a national park on November 10, 1978. (Source Wikipedia (http://en.wikipedia.org/wiki/Badlands_National_Park))<br><br>http://www.nps.gov/badl]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/xx8LN3yiFTzKmUc3ZR_eInoDlcVQTX5WwuFwV3Y2RNMxmsiNz6OCb5A3ltMrqpmwmgLbHaIYIzH1rkE5gIPs-sLmsF9xYdZBC4sRiu7QmlID6kJD6Uo9MuIkO0eR7yrm-ovEm36SkeoDc8zi4Lbun4z9BCJ1lQYwZc1bffJyrlQOmg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.500145,43.750008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baltimore–Washington Parkway (MD)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/gySOVbuJ_wMcbghS0RlfRpezUx6IWrPKLHDRvnXpQZHyG8OQ-f2RcbGrgMx5vCDQNq2XxQN44TwAdvvDdFwraMufraPY4fNMoB0f8mB_ikrd216B_XrgRBmtZ8fWordZw8rVMq1iNLcVN6s" height="200" width="auto" /><br><br>The Baltimore–Washington Parkway (also referred to as theB–W Parkway) is a highway in the U.S. state of Maryland, running southwest fromBaltimore to Washington, D.C. The road begins at an interchange with U.S. Route50 and Maryland Route 201 near Cheverly in Prince Georges County at the D.C.border, and continues northeast as a parkway maintained by the National ParkService (NPS) to Maryland Route 175 near Fort Meade, serving many federalinstitutions.<br><br><br><br><br><br><br>The portion of the B–W Parkway between the Tuxedointerchange and Maryland Route 175 is maintained by the National Park Service(NPS). It continues north as a six-lane 45 mph (72 km/h) limited-access parkwaywith the secret Maryland Route 295 designation, containing brown signsfeaturing the Clarendon typeface. Along this section of the parkway,commercial vehicles such as trucks are prohibited; however, buses andlimousines are allowed. (Source Wikipedia (http://en.wikipedia.org/wiki/Baltimore-Washington_Parkway))<br><br><br><br><br><br><br>http://www.nps.gov/bawa]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/gySOVbuJ_wMcbghS0RlfRpezUx6IWrPKLHDRvnXpQZHyG8OQ-f2RcbGrgMx5vCDQNq2XxQN44TwAdvvDdFwraMufraPY4fNMoB0f8mB_ikrd216B_XrgRBmtZ8fWordZw8rVMq1iNLcVN6s</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.832886,39.068249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bandelier National Monument (NM)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Mhkt7k8_hCb2gnQ5JUh0PIUyZ8suFx4mLmJRG-9m4bbxrYpAONHxoULfmbHvQLmc0NAjTxntncTAsfB1ePbCPMBPE3kT3AFccaI8pr5OpJF7aY1CTRncgZOYBKvgzxoqqFiweJE6XeQgyDK9zykl" height="200" width="auto" /><br><br>Bandelier National Monument is a 32,737 acres (13,248 ha) National Monument preserving the homes of the Ancestral Pueblo People. It is named after Swiss anthropologist Adolph Bandelier, who researched the cultures of the area. Bandelier was designated a National Monument on February 11, 1916, while most of its backcountry became a "designated wilderness" in October 1976. (Source Wikipedia (http://en.wikipedia.org/wiki/Bandelier_National_Monument))<br><br>http://www.nps.gov/band]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/Mhkt7k8_hCb2gnQ5JUh0PIUyZ8suFx4mLmJRG-9m4bbxrYpAONHxoULfmbHvQLmc0NAjTxntncTAsfB1ePbCPMBPE3kT3AFccaI8pr5OpJF7aY1CTRncgZOYBKvgzxoqqFiweJE6XeQgyDK9zykl</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.270142,35.779068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bent’s Old Fort National Historic Site (CO)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/U0Yd1ySDEM2VtPuPXyGNtp0DgxfFLv3kiPxbxea32O60aXJBXketeghBZMscFhM4acpCtoMv3OwiGsslFQVVClSKLb9vxCq2BV50vCpB2WpNG5aFOZTMfZzSrbljT5WdBoUTfX394AkkYqXaU-wZMXj-corzI1Y" height="200" width="auto" /><br><br>Bent's Old Fort is an 1833 fort located in Otero County,Colorado, USA. William and Charles Bent, along with Ceran St. Vrain, built thefort to trade with Southern Cheyenne and Arapaho Plains Indians and trappersfor buffalo robes. For much of its 16-year history, the fort was the only majorpermanent white settlement on the Santa Fe Trail between Missouri and theMexican settlements. It was destroyed under mysterious circumstances in 1849.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The area of the fort was designated a National Historic Siteunder the National Park Service on June 3, 1960. It was further designated aNational Historic Landmark later that year on December 19, 1960. The fort wasreconstructed and is open to the public. (SourceWikipedia (http://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/beol]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/U0Yd1ySDEM2VtPuPXyGNtp0DgxfFLv3kiPxbxea32O60aXJBXketeghBZMscFhM4acpCtoMv3OwiGsslFQVVClSKLb9vxCq2BV50vCpB2WpNG5aFOZTMfZzSrbljT5WdBoUTfX394AkkYqXaU-wZMXj-corzI1Y</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.429466,38.040421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bering Land Bridge National Preserve (AK)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mcHtrYhuvgVVelxO1QVftMGAn06RdtbFnzAc3fCSC52j__Ewy0Md2xnhMB07bj7wIKMP_Vv0WqltXsYxc59W_RHSRpW1Ic5IaPZhBOeIfKuW4ZgS053Qf6clDV4FcDFvmZZxVxbOTjeT-A" height="200" width="auto" /><br><br>The Bering Land Bridge National Preserve is one of the mostremote United States national park areas, located on the Seward Peninsula. TheNational Preserve protects a remnant of the Bering Land Bridge that connectedAsia with North America more than 13,000 years ago during the Pleistocene iceage. The majority of this land bridge, once thousands of miles wide, now liesbeneath the waters of the Chukchi and Bering Seas.<br><br><br><br><br><br><br><br><br><br><br><br><br><br>During the glacial epoch this was part of a migration routefor people, animals, and plants whenever ocean levels fell enough to expose theland bridge. Archeologists agree that it was across this Bering Land Bridge,also called Beringia, that humans first migrated from Asia to populate theAmericas.<br><br><br><br><br><br><br><br><br><br><br><br><br><br>The preserve was originally established on December 1, 1978,as Bering Land Bridge National Monument. On December 2, 1980, the designationwas changed to a National Preserve. The Preserve's western boundary lies 42miles from the Bering Strait and the fishing boundary between the United Statesand Russia. There are no roads into the preserve. Access to the preserve is bybush planes or boats during summer months and by ski planes, snowmobiles or dogsleds during the winter. (Source Wikipedia (http://en.wikipedia.org/wiki/Bering_Land_Bridge_National_Preserve))<br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/bela]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/mcHtrYhuvgVVelxO1QVftMGAn06RdtbFnzAc3fCSC52j__Ewy0Md2xnhMB07bj7wIKMP_Vv0WqltXsYxc59W_RHSRpW1Ic5IaPZhBOeIfKuW4ZgS053Qf6clDV4FcDFvmZZxVxbOTjeT-A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.033875,66.09047700000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Bend National Park (TX)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/-EYSiozJRnCzuI1jvqqKdDf4ESX03b0P4Cp9eWNAKjBE0LqZ1saxJ0wI5_VgqGXbn9iqh5tr9csfdoic-CR_XagIA92c-MfE2vKpuebJmaJcYo9z789ZGMihHw5DebQvbGP5UEM" height="200" width="auto" /><br><br>Big Bend National Park is a national park located in the U.S. state of Texas. For more than 1,000 miles (1600 km), the Rio Grande / Río Bravo forms the international boundary between Mexico and the United States, and Big Bend National Park administers approximately 244 miles (393 km) along that boundary.<br><br>Big Bend National Park has national significance as the largest protected area of Chihuahuan Desert topography and ecology in the United States, which includes more than 1,200 species of plants, more than 450 species of birds, 56 species of reptiles, and 75 species of mammals. The park covers 801,163 acres (3,242 km2). Few areas exceed the park's value for the protection and study of geologic and paleontologic resources. Cretaceous and Tertiary fossil organisms exist in variety and abundance. Archeologists have discovered artifacts estimated to be 9,000 years old, and historic buildings and landscapes offer graphic illustration of life along the international border in the 1800s.<br><br>Because the Rio Grande serves as an international boundary, the park faces unusual constraints when administering and enforcing park rules, regulations, and policies. In accordance with the Treaty of Guadalupe Hidalgo, the park has jurisdiction only to the center of the deepest river channel as the river flowed in 1848. The rest of the land south of that channel, and the river, lies within Mexican territory. (Source Wikipedia (http://en.wikipedia.org/wiki/Big_Bend_National_Park))<br><br>http://www.nps.gov/bibe]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/-EYSiozJRnCzuI1jvqqKdDf4ESX03b0P4Cp9eWNAKjBE0LqZ1saxJ0wI5_VgqGXbn9iqh5tr9csfdoic-CR_XagIA92c-MfE2vKpuebJmaJcYo9z789ZGMihHw5DebQvbGP5UEM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.25016,29.250057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Cypress National Preserve (FL)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/jn_LGIYYfk6KZkZm8g0QD1iRkEyN-idbZJ0n6L7GRnMTTTP0NYTM3Pbm6-WBVBfMCYHPeQ6w7-0pS421sRuEmzuKCQlJQAdX-GJzTSInb622Z897r0viOkLfpBi-4rsVmqM" height="200" width="auto" /><br><br>Big Cypress National Preserve is a United States NationalPreserve located in southern Florida, about 45 miles (72 kilometers) west ofMiami. The 720,000-acre (2,900 km2) Big Cypress, along with Big ThicketNational Preserve in Texas, became the first national preserves in the UnitedStates National Park System when they were established on 11 October 1974.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The preserve is the most biologically diverse region of theterrestrial Everglades, and while dominated by a wet cypress forest is host toan array of flora and fauna, including mangroves, orchids, alligators, venomoussnakes like the cottonmouth (Agkistrodon piscivorus conanti) and easterndiamondback rattlesnake (Crotalus adamanteus), a variety of birds, and theFlorida panther (Puma concolor couguar).<br><br><br><br><br><br><br><br><br><br><br><br><br><br>The preserve is also home to nine federally listedendangered species including the West Indian Manatee, the eastern indigo snake(Drymarchon corais couperi), and the Florida Sandhill Crane (Grus canadensispratensis). (Source Wikipedia (http://en.wikipedia.org/wiki/Big_Cypress_National_Preserve))<br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/bicy]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/jn_LGIYYfk6KZkZm8g0QD1iRkEyN-idbZJ0n6L7GRnMTTTP0NYTM3Pbm6-WBVBfMCYHPeQ6w7-0pS421sRuEmzuKCQlJQAdX-GJzTSInb622Z897r0viOkLfpBi-4rsVmqM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.07910200000001,26.041977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Hole National Battlefield (MT)</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/VlL3m-p-l_SNXML25TjzuBkC9fjzDhMSII4UteIgSeg-FY98mCLRub_1Eki5NgmAMG0J158SgU8XGTPxi9pxmVDew4bVVDf4A-5I4AhnxO3ZbZx1SNaPHL4U0o8h7jSBixcab9zU" height="200" width="auto" /><br><br>Big Hole National Battlefield is a memorial located inMontana, United States. The Nez Percé, under Chief Joseph fought a delayingaction against the 7th Infantry Regiment (United States) here on August 9 and10, 1877, during their failed attempt to escape to Canada. This action, theBattle of the Big Hole, was the largest battle fought between the Nez Percé andU.S. Government forces in the five month conflict known as the Nez Perce War.The park was made a part of Nez Perce National Historical Park in 1992 whichconsists of 38 separate locations in five different states, following theflight of the Nez Percé tribe from the U.S. Cavalry.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Big Hole National Battlefield is located on 655 acres (265ha), 10 miles (16 km) west of Wisdom, Montana on Montana state highway 43. Ayear round visitor center is located in the park.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The site was established as a Military Preserve in 1883, anddesignated a National Monument on June 23, 1910. It was redesignated a NationalBattlefield on May 17, 1963. (Source Wikipedia (http://en.wikipedia.org/wiki/Big_Hole_National_Battlefield))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/biho]]></description>
+			<styleUrl>#icon-123</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh5.googleusercontent.com/proxy/VlL3m-p-l_SNXML25TjzuBkC9fjzDhMSII4UteIgSeg-FY98mCLRub_1Eki5NgmAMG0J158SgU8XGTPxi9pxmVDew4bVVDf4A-5I4AhnxO3ZbZx1SNaPHL4U0o8h7jSBixcab9zU</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.643349,45.64069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big South Fork National River and Recreation Area (TN, KY)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/aPmFCsa_DBnAQjBKphDFv1BFyaF73tvO-cvlPir7rqy4mrH6ROSOhmE_lO3F9ULoCZjdK364l-r0N9mp802SysSUQLuq8fEhnNY9LhzaMCS_aePhY5Pp8_AdQn8A6iFY7-dam5woJDy06g" height="200" width="auto" /><br><br>The Big South Fork National River and Recreation Areapreserves the Big South Fork of the Cumberland River and its tributaries innortheastern Tennessee and southeastern Kentucky. In addition, the formermining community of Blue Heron is preserved and interpreted via signage.<br><br><br><br><br><br><br>The Big South Fork region contains one of the highestconcentrations of natural bridges in the eastern United States and the area islocated in parts of Scott, Fentress, Pickett, and Morgan counties in Tennessee,and McCreary County in Kentucky.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Big South Fork’s most prominent feature is the rivergorge cutting through the softer Mississippian age rock beneath the hardPennsylvanian capstone of the Cumberland Plateau. Water is the most influentialagent of geologic change in the Big South Fork region. Over time water actionhas left many unique and amazing geologic features ranging from the river gorgewith its magnificent bluffs to the natural arches and unusual hoodoos. (Source Wikipedia (http://en.wikipedia.org/wiki/Big_South_Fork_National_River_and_Recreation_Area))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/biso]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/aPmFCsa_DBnAQjBKphDFv1BFyaF73tvO-cvlPir7rqy4mrH6ROSOhmE_lO3F9ULoCZjdK364l-r0N9mp802SysSUQLuq8fEhnNY9LhzaMCS_aePhY5Pp8_AdQn8A6iFY7-dam5woJDy06g</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.659271,36.567013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Thicket National Preserve (TX)</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/HPbf1ppMKzUOeYYbfze-X0y_OyzjeKI3_9IDW1ZSEZSQE_ikDKCF7wCf_jkNpLfjoTgl9fb0ws2-VW9cXkHqhore1MsMoWvVJ3dX1LXfheID3sDiCz4zxBJ47PJ2KIuybhp-Sw" height="200" width="auto" /><br><br>The Big Thicket is the name of a heavily forested area inSoutheast Texas. While no exact boundaries exist, the area occupies much ofHardin County, Liberty, Tyler, San Jacinto, and Polk Counties and is roughlybounded by the San Jacinto River, Neches River, and Pine Island Bayou. To thenorth, it blends into the remainder of the larger Piney Woods terrestrialecoregion of which it is a part.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>The Big Thicket has been described as one of the mostbiodiverse areas in the world. The Big Thicket National Preserve wasestablished in 1974 in an attempt to protect the many plant and animal specieswithin. Big Thicket National Preserve, along with Big Cypress National Preservein Florida, became the first national preserves in the United States NationalPark System when both were authorized by the United States Congress on 11October 1974. Big Thicket was also designated as a Biosphere Reserve by UNESCOin 1981.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>A dirt road leading north out of the town of Saratoga is thecore of the area's predominant ghost story. Bragg Road, as it is more formallyknown, was constructed in 1934 on the bed of a former railroad line that hadserviced the lumber industry. In the 1940s, stories began to circulate about a mysteriouslight, sometimes referred to as the Light of Saratoga, that could be seen onand near the road at night. No adequate explanation of the light has beenoffered. The various ghost stories include reference to the Kaiser Burnout,long-dead conquistadors looking for their buried treasure, a decapitated railroadworker, and a lost night hunter eternally searching for a way out. Less paranormal explanations include swamp gas, andautomobile headlights filtering through the trees. (Source Wikipedia (http://en.wikipedia.org/wiki/Big_Thicket_National_Preserve))<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/bith]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh4.googleusercontent.com/proxy/HPbf1ppMKzUOeYYbfze-X0y_OyzjeKI3_9IDW1ZSEZSQE_ikDKCF7wCf_jkNpLfjoTgl9fb0ws2-VW9cXkHqhore1MsMoWvVJ3dX1LXfheID3sDiCz4zxBJ47PJ2KIuybhp-Sw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-94.110603,30.424994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bighorn Canyon National Recreation Area (MT, WY)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/m4wY3uIKJc50hiyewwjrwrejfto4v0uK5Gwxto96mR40NbQ_5EZ_ygj2IB34vmQugqB_L0IS4L4iV_OmLE3_bhgI1WOKPD8PZWKnqdXedcT6AMZZVjZvOOo_0soSMXH5qsNTB0FJjmXb0pEuisur21Q" height="200" width="auto" /><br><br>Bighorn Canyon National Recreation Area was established byan act of Congress on October 15, 1966, following the construction of theYellowtail Dam by the Bureau of Reclamation. This dam, named after the famousCrow chairman Robert Yellowtail, harnessed the waters of the Bighorn River andturned this variable stream into a lake. Archeological and historical resourcescomplement the natural scene. About one third of the area is within the CrowIndian Reservation.<br><br><br><br><br><br><br><br><br><br><br><br>Bighorn Lake extends 71 miles (114 km) through Wyoming andMontana, 55 miles (89 km) of which are held within spectacular Bighorn Canyon.The Recreation Area straddles the northern Wyoming and southern Montanaborders. There are two visitor centers and other developed facilities; one inFort Smith, Montana, and one near Lovell, Wyoming. The Afterbay Lake below theYellowtail Dam is a good spot for trout fishing and wildlife viewing for ducks,geese, and other animals. The Bighorn River below the Afterbay Dam is a worldclass trout fishing area. North of Lovell, there is a spot where one can standon the canyon rim, shout, and hear a "triple echo." (Source Wikipedia (http://en.wikipedia.org/wiki/Bighorn_Canyon_National_Recreation_Area))<br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/bica]]></description>
+			<styleUrl>#icon-61</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/m4wY3uIKJc50hiyewwjrwrejfto4v0uK5Gwxto96mR40NbQ_5EZ_ygj2IB34vmQugqB_L0IS4L4iV_OmLE3_bhgI1WOKPD8PZWKnqdXedcT6AMZZVjZvOOo_0soSMXH5qsNTB0FJjmXb0pEuisur21Q</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-108.246918,45.041023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biscayne National Park (FL)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/zj_wpFop8jSlDdHk4djBYcA1BKLQPnKNmA1BvkiAif3708oTEiX8i6djm-27V-TXKVbRe-WvooYIFzginozHYSjr0IVKyciGFSGf7JBPwALDhq7121qkebBh1nPrm2pDHAi1rqrCYmtcfA" height="200" width="auto" /><br><br>Biscayne National Park is a U.S. National Park located in southern Florida, due east of Homestead. The park preserves Biscayne Bay, one of the top scuba diving areas in the United States. Ninety-five percent of the park is water. In addition, the shore of the bay is the location of an extensive mangrove forest. The park covers 207 mi² (700 km²).<br><br>Elliott Key, the park's largest island, is considered the first of the true Florida Keys being formed from fossilized coral reef, i.e. Key Largo limestone. The islands farther north in the park are transitional islands of coral and sand.<br><br>The major attraction of the park is scuba diving or snorkeling on the coral reef inside the bay. It is also possible to take a glass-bottom boat tour of the bay, or rent kayaks to explore the bay and the islands (Florida Keys) in it. While accessing the historic homes of Stiltsville is currently not allowed by casual visitors, these structures may still be observed from boats. (Source Wikipedia (http://en.wikipedia.org/wiki/Biscayne_National_Park))<br><br>http://www.nps.gov/bisc]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/zj_wpFop8jSlDdHk4djBYcA1BKLQPnKNmA1BvkiAif3708oTEiX8i6djm-27V-TXKVbRe-WvooYIFzginozHYSjr0IVKyciGFSGf7JBPwALDhq7121qkebBh1nPrm2pDHAi1rqrCYmtcfA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.233261,25.498621,0</coordinates>
+			</Point>
+		</Placemark>
+		
+</kml>

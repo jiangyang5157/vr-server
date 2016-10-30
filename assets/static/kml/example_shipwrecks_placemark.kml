@@ -11,7 +11,7 @@
 	
 	<Folder>
 		<Placemark>
-			<name>example3.extra</name>
+			<name>Example.Placemark</name>
 			<Point>
 				<coordinates>144.76192,-36.84845</coordinates>
 			</Point>

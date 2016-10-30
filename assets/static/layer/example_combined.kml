@@ -2,7 +2,7 @@
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 <NetworkLink>
 	<Link>
-		<href>http://127.0.0.1:8080/assets/static/kml/example1.kml</href>
+		<href>http://127.0.0.1:8080/assets/static/kml/example_container_obj_cdata.kml</href>
 	</Link>
 </NetworkLink>
 
@@ -11,14 +11,14 @@
 		<Folder>
 			<NetworkLink>
 				<Link>
-					<href>http://127.0.0.1:8080/assets/static/kml/example2.kml</href>
+					<href>http://127.0.0.1:8080/assets/static/kml/example_not_exist.kml</href>
 				</Link>
 			</NetworkLink>
 		</Folder>
 			<Folder>
 			<NetworkLink>
 				<Link>
-					<href>http://127.0.0.1:8080/assets/static/kml/example3.kml</href>
+					<href>http://127.0.0.1:8080/assets/static/kml/example_shipwrecks_placemark.kml</href>
 				</Link>
 			</NetworkLink>
 		</Folder>
@@ -26,7 +26,7 @@
 </Document>
 
 <Placemark>
-	<name>example.NotFromNetworkLink</name>
+	<name>Example.Placemark</name>
 	<Point>
 		<coordinates>174.76192,-36.84845</coordinates>
 	</Point>
