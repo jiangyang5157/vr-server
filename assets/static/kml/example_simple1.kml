@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="placemark_1">
+		<IconStyle>
+			<color>7f0000ff</color>
+		</IconStyle>
+	</Style>
+	<Style id="placemark_2">
+		<IconStyle>
+			<color>ffff0055</color>
+		</IconStyle>
+	</Style>
+    <Folder>
+        <Placemark>
+            <name>Auckland</name>
+			<styleUrl>#placemark_1</styleUrl>
+			<description>https://en.wikipedia.org/wiki/Massey_University</description>
+            <Point>
+                <coordinates>174.76192,-36.84845</coordinates>
+            </Point>
+			<ExtendedData>
+                <Data name="title">
+                   <value>Icosphere</value>
+                </Data>
+                <Data name="obj">
+                    <value>http://127.0.0.1:8080/assets/static/model/icosphere.obj</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+			<name>Wellington</name>
+			<styleUrl>#placemark_2</styleUrl>
+			<description>https://en.wikipedia.org/wiki/monkey</description>
+			<Point>
+				<coordinates>174.77623,-41.28646</coordinates>
+			</Point>
+			<ExtendedData>
+                <Data name="title">
+                   <value>Monkey</value>
+                </Data>
+                <Data name="obj">
+                    <value>http://127.0.0.1:8080/assets/static/model/monkey.obj</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+    </Folder>
+    <Folder>
+		<NetworkLink>
+			<Link>
+				<href>http://127.0.0.1:8080/assets/static/kml/example_simple2.kml</href>
+			</Link>
+		</NetworkLink>
+	</Folder>
+</Document>
+</kml>

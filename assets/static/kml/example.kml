@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <Folder>
+        <name>City Example</name>
+		<NetworkLink>
+			<Link>
+				<href>http://127.0.0.1:8080/assets/static/kml/example_simple1.kml</href>
+			</Link>
+		</NetworkLink>
+        <Placemark>
+            <name>Berlin</name>
+            <Point>
+                <coordinates>13.40495,52.52000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Washington</name>
+            <Point>
+                <coordinates>-77.03687,38.90719</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Beijing</name>
+            <Point>
+                <coordinates>116.40739,39.90421</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Moscow</name>
+            <Point>
+                <coordinates>37.6173,55.75582</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>London</name>
+            <Point>
+                <coordinates>-0.12775,51.50735</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Paris</name>
+            <Point>
+                <coordinates>2.35222,48.85661</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Seoul</name>
+            <Point>
+                <coordinates>126.97796,37.56653</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>

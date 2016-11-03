@@ -3,7 +3,7 @@
 <Document>
 	<NetworkLink>
 		<Link>
-			<href>http://127.0.0.1:8080/assets/static/kml/example_container_obj_cdata.kml</href>
+			<href>http://127.0.0.1:8080/assets/static/kml/example_simple1.kml</href>
 		</Link>
 	</NetworkLink>
 </Document>

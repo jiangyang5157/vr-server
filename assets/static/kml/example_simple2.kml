@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Placemark>
+		<name>Sydney</name>
+		<description>https://en.wikipedia.org/wiki/Sydney</description>
+		<Point>
+			<coordinates>151.20699,-33.86748</coordinates>
+		</Point>
+		<ExtendedData>
+			<Data name="CampNumber">
+				<value>12</value>
+			</Data>
+			<Data name="aaa/sss">
+				<displayName>
+					<![CDATA[
+					diaplayname is one of the UNSUPPORTED_REGEX
+					asdasd1234!@#$%^&*()_+ <b><i>number of camps</i></b>
+					]]>
+				</displayName>
+				<value>12</value>
+			</Data>
+			<Data name="title">
+			   <value>Cube</value>
+			</Data>
+			<Data name="obj">
+				<value>http://127.0.0.1:8080/assets/static/model/cube.obj</value>
+			</Data>
+		</ExtendedData>
+    </Placemark>
+</Document>
+</kml>
