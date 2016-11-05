@@ -38,4 +38,3 @@ func main() {
 	http.Handle("/assets/", http.StripPrefix("/assets", http.FileServer(http.Dir("./assets"))))
 	log.Fatal(http.ListenAndServe(":" + strconv.Itoa(app.PORT), nil))
 }
-
