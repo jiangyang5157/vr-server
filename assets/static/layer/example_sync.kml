@@ -5,6 +5,11 @@
 		<Link>
 			<href>http://localhost:5157/assets/static/kml/example_sync.kml</href>
 		</Link>
+		<ExtendedData>
+			<Data name="sync">
+			   <value>1</value>
+			</Data>
+		</ExtendedData>
 	</NetworkLink>
 </Document>
 </kml>
