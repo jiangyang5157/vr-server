@@ -16,7 +16,6 @@ curl -i http://127.0.0.1:5157/assets/static/
 curl -i http://127.0.0.1:5157/assets/static.zip
 curl -i http://127.0.0.1:5157/assets/static/layer/example.kml
 */
-
 func main() {
 
 	//RESTful server
