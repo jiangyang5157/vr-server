@@ -9,12 +9,12 @@ import (
 )
 
 /*
-@see app/config.go
-curl -i http://127.0.0.1:5157/api/test
-curl -i http://127.0.0.1:5157/assets/
-curl -i http://127.0.0.1:5157/assets/static/
-curl -i http://127.0.0.1:5157/assets/static.zip
-curl -i http://127.0.0.1:5157/assets/static/layer/example.kml
+IP Address and Port in app/config.go
+curl -i http://localhost:5157/api/test
+curl -i http://localhost:5157/assets/
+curl -i http://localhost:5157/assets/static/
+curl -i http://localhost:5157/assets/static.zip
+curl -i http://localhost:5157/assets/static/layer/example.kml
 */
 func main() {
 
