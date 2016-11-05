@@ -9,7 +9,6 @@ import (
 )
 
 /*
-IP Address and Port in app/config.go
 curl -i http://localhost:5157/api/test
 curl -i http://localhost:5157/assets/
 curl -i http://localhost:5157/assets/static/

@@ -10,7 +10,6 @@ import (
 )
 
 /*
-IP Address and Port in app/config.go
 curl -i -H "Content-Type:application/json" -d '{"name":"Antoine"}' http://localhost:5157/users
 curl -i -H "Content-Type:application/json" -d '{"id":"1"}' http://localhost:5157/users
 curl -i -H "Content-Type:application/json" -d '{"id":"2","name":"Antoine2"}' http://localhost:5157/users
