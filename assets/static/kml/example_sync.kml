@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+	<Style id="placemark_1">
+		<IconStyle>
+			<color>ff79DFE3</color>
+		</IconStyle>
+	</Style>
+	
 	<Placemark>
 		<name>Sydney</name>
-		<description>https://en.wikipedia.org/wiki/Sydney</description>
+		<styleUrl>#placemark_1</styleUrl>
+		<description>https://en.wikipedia.org/wiki/Earth</description>
 		<Point>
 			<coordinates>151.20699,-33.86748</coordinates>
 		</Point>
 		<ExtendedData>
-			<Data name="CampNumber">
-				<value>12</value>
-			</Data>
-			<Data name="aaa/sss">
-				<displayName>
-					<![CDATA[
-					diaplayname is one of the UNSUPPORTED_REGEX
-					asdasd1234!@#$%^&*()_+ <b><i>number of camps</i></b>
-					]]>
-				</displayName>
-				<value>12</value>
-			</Data>
 			<Data name="title">
 			   <value>Cube</value>
 			</Data>

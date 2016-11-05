@@ -3,7 +3,7 @@
 <Document>
 	<NetworkLink>
 		<Link>
-			<href>http://127.0.0.1:8080/assets/static/kml/example_simple2.kml</href>
+			<href>http://localhost:8080/assets/static/kml/example_simple2.kml</href>
 		</Link>
 	</NetworkLink>
 </Document>

@@ -24,7 +24,7 @@
                    <value>Icosphere</value>
                 </Data>
                 <Data name="obj">
-                    <value>http://127.0.0.1:8080/assets/static/model/icosphere.obj</value>
+                    <value>http://localhost:8080/assets/static/model/icosphere.obj</value>
                 </Data>
             </ExtendedData>
         </Placemark>
@@ -40,7 +40,7 @@
                    <value>Monkey</value>
                 </Data>
                 <Data name="obj">
-                    <value>http://127.0.0.1:8080/assets/static/model/monkey.obj</value>
+                    <value>http://localhost:8080/assets/static/model/monkey.obj</value>
                 </Data>
             </ExtendedData>
         </Placemark>
@@ -48,7 +48,7 @@
     <Folder>
 		<NetworkLink>
 			<Link>
-				<href>http://127.0.0.1:8080/assets/static/kml/example_simple2.kml</href>
+				<href>http://localhost:8080/assets/static/kml/example_simple2.kml</href>
 			</Link>
 		</NetworkLink>
 	</Folder>
