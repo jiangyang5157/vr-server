@@ -9,13 +9,13 @@ import (
 )
 
 /*
-IP Address and Port see app/config.go
-curl -i http://192.168.1.51:5157/api/test
+@see app/config.go
+curl -i http://127.0.0.1:101/api/test
 
-curl -i http://127.0.0.1:5157/assets/
-curl -i http://127.0.0.1:5157/assets/static/
-curl -i http://127.0.0.1:5157/assets/static.zip
-curl -i http://127.0.0.1:5157/assets/static/layer/example.kml
+curl -i http://127.0.0.1:101/assets/
+curl -i http://127.0.0.1:101/assets/static/
+curl -i http://127.0.0.1:101/assets/static.zip
+curl -i http://127.0.0.1:101/assets/static/layer/example.kml
 */
 
 func main() {
