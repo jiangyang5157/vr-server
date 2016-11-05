@@ -3,25 +3,26 @@
 <Document>
 	<Style id="placemark_1">
 		<IconStyle>
-			<color>ff79DFE3</color>
+			<color>ff0000ff</color>
 		</IconStyle>
 	</Style>
-	
-	<Placemark>
-		<name>Sydney</name>
-		<styleUrl>#placemark_1</styleUrl>
-		<description>https://en.wikipedia.org/wiki/Earth</description>
-		<Point>
-			<coordinates>151.20699,-33.86748</coordinates>
-		</Point>
-		<ExtendedData>
-			<Data name="title">
-			   <value>Cube</value>
-			</Data>
-			<Data name="obj">
-				<value>http://localhost:8080/assets/static/model/cube.obj</value>
-			</Data>
-		</ExtendedData>
-    </Placemark>
+	<Folder>
+		<Placemark>
+			<name>Sydney</name>
+			<styleUrl>#placemark_1</styleUrl>
+			<description>https://en.wikipedia.org/wiki/Earth</description>
+			<Point>
+				<coordinates>151.20699,-33.86748</coordinates>
+			</Point>
+			<ExtendedData>
+				<Data name="title">
+				   <value>Cube</value>
+				</Data>
+				<Data name="obj">
+					<value>http://localhost:5157/assets/static/model/cube.obj</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+	</Folder>
 </Document>
 </kml>

@@ -24,7 +24,7 @@
 			   <value>Cube</value>
 			</Data>
 			<Data name="obj">
-				<value>http://localhost:8080/assets/static/model/cube.obj</value>
+				<value>http://localhost:5157/assets/static/model/cube.obj</value>
 			</Data>
 		</ExtendedData>
     </Placemark>
