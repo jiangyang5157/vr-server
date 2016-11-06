@@ -2075,5 +2075,18 @@
 				<coordinates>-122.662094,45.62260800000001,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Fort Washington Park (MD)</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/qh7yZBz7hItneDglMT-NHu5qgw3vh8MCLnWHA26PGw8OKD3oitV48Krzpus0r0KSGOWdZuemiKAXBfiV6TcRnwzlrzg1nqMsn-Qhcy5_zltuxF1YBB4m-oO1z8xJCTOQkAAxEa_8JhUWg2U" height="200" width="auto" /><br><br>FortWashington, located near Fort Washington, Maryland, was for many decades theonly defensive fort protecting Washington D.C. The original fort, overlookingthe Potomac River, was completed in 1809, and was named Fort Warburton. Duringthe War of 1812, the fort was destroyed by its own garrison during a Britishadvance. The current historic fort, maintained by the National Park Service),was initially constructed in 1824. It is a stone structure with a good cannonshot down the Potomac River. The fort was constructed in 1824 with extensiveremodeling in the 1840s, and 1890s. The Fort was turned over to the Departmentof the Interior in 1946 after its last military personnel left.<br><br><br><br>Theexpansive park grounds with its extensive hiking / bicycle paths and river vieware a scenic place for picnicking, fishing, and outdoor recreation. Historicalre-enactments are held periodically at the fort, and there is a small museum.In 2006, repairs were done to shore up the crumbling outer wall, in preparationfor the 200th anniversary.<br><br><br><br>TheFort Washington Light, located below the fort, was established in 1857. Thecurrent tower, standing 28 feet tall, was constructed in 1882. (Source Wikipedia (http://en.wikipedia.org/wiki/Fort_Washington_Park))<br><br><br><br>http://www.nps.gov/fowa]]></description>
+			<styleUrl>#icon-157</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh6.googleusercontent.com/proxy/qh7yZBz7hItneDglMT-NHu5qgw3vh8MCLnWHA26PGw8OKD3oitV48Krzpus0r0KSGOWdZuemiKAXBfiV6TcRnwzlrzg1nqMsn-Qhcy5_zltuxF1YBB4m-oO1z8xJCTOQkAAxEa_8JhUWg2U</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.03501900000001,38.711952,0</coordinates>
+			</Point>
+		</Placemark>
 
 </kml>

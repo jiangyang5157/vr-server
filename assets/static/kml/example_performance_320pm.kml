@@ -4155,5 +4155,17 @@
 				<coordinates>-84.685532,36.087673,0</coordinates>
 			</Point>
 		</Placemark>
-
+		<Placemark>
+			<name>Ocmulgee National Monument (GA)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/caIoulSjuDNj5vzq5yQnnRACZm3E96BFVZtUS_mjP8ttFBygazfg-ckJoUbMrLGzJZoC99GWTAMADuME1X3GMPNE98bRjl87RCNZbbb2D1I-OgAqO5TtU2Ro7cOV47DrDlt-2A" height="200" width="auto" /><br><br>OcmulgeeNational Monument preserves traces of over ten millennia of native Southeasternculture, including Mississippian mounds. It is located on the eastern side ofMacon.<br><br><br><br>Ocmulgee(pronounced "oak-mull-ghee") is a memorial to the antiquity of peoplein Southeastern North America. From Ice Age hunters to the Creeks of historictimes, there is evidence of at least 10,000 years of human habitation. Between900-1150, an elite society supported by skillful farmers lived on this sitenear the Ocmulgee River. They constructed a town of rectangular woodenbuildings, huge pyramidal temple mounds, and at least one burial mound.Circular earth lodges served as places to conduct meetings and ceremonies.<br><br><br><br>Afterthis large early ceremonial center declined, other villages were built in thearea by the later Mississippian "Lamar" Culture. These were thepeople encountered by Spaniard Hernando de Soto in 1540. During historic times,the great mounds continued to evoke awe and admiration. Naturalist WilliamBartram journeyed through Ocmulgee in the 1770s and described the"wonderful remains of the power and grandeur of the ancients in this partof America." In the early 1900s, the area was put into a large renovation,and the site was made into its present manifestation.<br><br><br><br>OnJune 14, 1934, the park was authorized as a National Monument, which wasformally established on December 23, 1936, under the National Park Service. Ocmulgeehas a visitor center that houses an archaeological museum that interprets thecultures of the Native Americans who had inhabited this site. A shortorientation film and gift shop are also available in the visitor center. (Source Wikipedia (http://en.wikipedia.org/wiki/Ocmulgee_National_Monument))<br><br><br><br>http://www.nps.gov/ocmu]]></description>
+			<styleUrl>#icon-111</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/caIoulSjuDNj5vzq5yQnnRACZm3E96BFVZtUS_mjP8ttFBygazfg-ckJoUbMrLGzJZoC99GWTAMADuME1X3GMPNE98bRjl87RCNZbbb2D1I-OgAqO5TtU2Ro7cOV47DrDlt-2A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.60762800000002,32.837627,0</coordinates>
+			</Point>
+		</Placemark>
 </kml>

@@ -1041,5 +1041,18 @@
 				<coordinates>-78.310287,38.996174,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Little Rock Central High School National Historic Site (AR)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/W51ja3kpaKh-ZUFdXRtFellQfyGuXPoVvkNyXJN45Qvg1XG1RMg8Qow8Blz8Ka7pppYCL60LVZGHdYZnUvXDrvXwGkR4pfcyUB_xERi9RH5oYQgqcf72W5wfQ-viNKm6NBeBU09ka1IxFvsib700CeI" height="200" width="auto" /><br><br>On the morning of September 23, 1957 nine African-Americanteenagers stood up to an angry crowd protesting integration in front of LittleRock's Central High as they entered the school for the first time. This event,broadcast around the world, made Little Rock the site of the first importanttest of the U.S. Supreme Court’s historic Brown v. Board of Education of Topekadecision.<br><br><br><br><br><br><br><br><br><br><br><br><br>http://www.nps.gov/chsc]]></description>
+			<styleUrl>#icon-169</styleUrl>
+			<ExtendedData>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/proxy/W51ja3kpaKh-ZUFdXRtFellQfyGuXPoVvkNyXJN45Qvg1XG1RMg8Qow8Blz8Ka7pppYCL60LVZGHdYZnUvXDrvXwGkR4pfcyUB_xERi9RH5oYQgqcf72W5wfQ-viNKm6NBeBU09ka1IxFvsib700CeI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-92.298264,34.736797,0</coordinates>
+			</Point>
+		</Placemark>
 
 </kml>
