@@ -12,7 +12,7 @@ import (
 curl -i http://localhost:5157/api/test
 curl -i http://localhost:5157/assets/
 curl -i http://localhost:5157/assets/static/
-curl -i http://localhost:5157/assets/static.zip
+curl -i http://localhost:5157/assets/patch.zip
 curl -i http://localhost:5157/assets/static/layer/example.kml
 */
 func main() {
